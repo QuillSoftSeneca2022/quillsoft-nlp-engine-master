@@ -1,0 +1,121 @@
+Title: Treatment of oseltamivir-resistant influenza A virus infections in mice with antiviral agents
+/***********************************************************************/
+Abstract: 
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: Introduction
+	Sequence: 1.
+		/-----------------------Paragraph-----------------------------/
+		Virus resistance to neuraminidase inhibitors has become the subject of increasing concern, based upon a higher frequency of isolating such viruses from infected patients. Later, certain oseltamivir-resistant H1N1 viruses were isolated and found to because disease in mice and ferrets. It is possible that these isolates may be appropriate for antiviral studies in animals.
+		/-----------------------Paragraph-----------------------------/
+		The purpose of this work was to develop an oseltamivir-resistant virus suitable for chemotherapy experiments in mice, and then to determine its susceptibility in the mouse model to various antiviral agents. Our efforts began prior to the emergence of the two thousand and nine pandemic and before the published work of Baz et al. with the genetically engineered influenza A/WSN/thirty three H275Y virus. Because we were aware that mouse-adapted strains might only produce partially lethal infections in mice, several strains of virus were investigated. The viruses that we used were those that became available to us for research purposes. We determined that a mouse-adapted influenza A/Mississippi/three/ two thousand and one was consistently lethal to BALB/c mice in repeated experiments. A pandemic virus resistant to oseltamivir, A/Hong Kong/two thousand, three hundred and sixty nine/two thousand and nine, was acquired by us and subsequently adapted for lethality in mice. Another virus strain serially passaged in mice, influenza A/Hawaii/twenty one/two thousand and seven H275Y, was found to only be partially lethal to the animals, and no further work was done with that virus. In the present studies we demonstrate the efficacy of several influenza virus inhibitors over a range of doses in mice lethally infected with the A/MS-H275Y and the A/HK-H275Y viruses. Infections of mice with these novel mouse adapted strains, particularly A/MS-H275Y, will be useful as models for studying treatment regimens that may combat oseltamivir-resistant virus infections.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Materials and methods
+	Sequence: 2.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Antiviral compounds
+	Sequence: 2.
+		/-----------------------Paragraph-----------------------------/
+		Amantadine and rimantadine were purchased from Sigma. All compounds, except zanamivir, were prepared in water for oral gavage treatment of mice. Water served as the oral gavage placebo. Zanamivir was prepared in sterile saline for intraperitoneal injection, and sterile saline served as the placebo for studies with zanamivir in mice. Because oseltamivir was used from pharmaceutical capsules that also contained excipients, the entire contents of seventy five mg capsules minus the she will were added to water to make up the highest mg/kg/day dose. Lower doses of oseltamivir were prepared by dilution. We have previously reported that oseltamivir from Tamiflu capsules performs similar to oseltamivir phosphate in mice.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Viruses
+	Sequence: 2.
+		/-----------------------Paragraph-----------------------------/
+		Influenza A/MS-Htwo7fiveY was obtained from the Neuraminidase Inhibitor Surveillance Network. The virus was passaged seven times in mice to enhance its virulence, then once in Madin-Darby canine kidney cells. Influenza A/HK-Htwo7fiveY virus was provided by Kwok-Yung Yuen, The University of Hong Kong, Hong Kong Special Administrative Region, People s Republic of China. This was one of the first reported oseltamivir-resistant pandemic viruses. The virus was adapted to mice by four sequential passages through mouse lungs, followed by one passage in MDCK cells. For passaging, BALB/c mice were infected with a ninety-ll suspension of virus at a 1:two dilution of the previously derived virus pool, starting with virus propagated in MDCK cells. Lungs were harvested from the mice at three days post-infection, homogenized in cell culture medium and frozen for subsequent passage in mice. The mouse-adapted viruses were partially sequenced in the neuraminidase gene and found to contain the Htwo7fiveY mutation, as did the parental viruses. No other genes were sequenced. Viral cytopathic effect inhibition assay MDCK cells in ninety six-well microplates were infected with approximately fifty cell culture infectious doses of virus. The medium used for assays was MEM, 0.twotwo percent  sodium bicarbonate, and ten units/ml of trypsin. Compounds in half-logten concentrations were applied to cells five ten min prior to adding virus-containing medium. Three microwells at each concentration of compound were infected. Two microwells were uninfected and served as toxicity controls. After three days of incubation in five percent  COtwo at thirty seven C, CPE was quantified by neutral red dye uptake using the dye at a 0.zero point one percent  final concentration for two h. Excess dye was rinsed from cells with PBS. The absorbed dye was eluted from the cells with zero point one ml of fifty percent  S rensen s citrate buffer /fifty percent  ethanol. Plates were read for optical density determination at five hundred and sixty nm. Readings were converted to percent of uninfected control using an Excel spread sheet developed for this purpose. Fifty percent virus-inhibitory concentrations and fifty percent  cytotoxic concentrations were determined by plotting percent CPE versus logten of inhibitor concentration. Selectivity index values were calculated as CCfifty/ECfifty. ! D.F. Smee and others / Antiviral Research ninety six thirteen twenty fifteen
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Viral neuraminidase inhibition assay
+	Sequence: 2.
+		/-----------------------Paragraph-----------------------------/
+		The effects of compounds on viral neuraminidase activity were determined using a commercially available kit   for zero point five s immediately after addition of NA-Star accelerator solution. Fifty percent inhibitory concentrations were determined by plotting percent chemiluminescent counts versus log10 inhibitor concentration.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Animal experiment design
+	Sequence: 2.
+		/-----------------------Paragraph-----------------------------/
+		Female BALB/c mice were anesthetized by intraperitoneal injection of ketamine/xylazine, followed by intranasal infection with a ninety-ll suspension of influenza virus. The virus challenge was approximately three fifty percent  mouse lethal infectious doses and equated to approximately one three x one hundred and four fifty percent  cell culture infectious doses per mouse. Other investigators use lower   on days three and six after infection. Lungs were weighed, then frozen at eighty C. Later, thawed lungs were homogenized and samples plated in quadruplicate on MDCK cell monolayers in ninety six-well microplates in ten-fold dilution increments. On day six of the infection of cells, wells were observed microscopically for the appearance of viral cytopathic effect. Endpoint dilution ti ters were calculated, and results converted to logten cell culture infectious doses per gram of tissue.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Statistical analysis of animal studies
+	Sequence: 2.
+		/-----------------------Paragraph-----------------------------/
+		Kaplan Meier survival curves were generated and compared by the Mantel-Cox log-rank test to determine statistical significance. Subsequently, pairwise comparisons were made by the Gehan-Breslow -Wilcoxon test with Bonferroni-corrected threshold for significance. Lung virus titers were analyzed by one-way ANOVA followed by Neuman-Keuls Multiple Comparison Test. Pairwise comparisons were made between drug-treated and placebo groups, and were analyzed using Prism five software.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Ethics statement for animal studies
+	Sequence: 2.
+		/-----------------------Paragraph-----------------------------/
+		The experiments were conducted in accordance with an approved protocol by the Institutional Animal Care and Use Committee of Utah State University. The work was performed in the AAALAC-accredited Laboratory Animal Research Center of the university in accordance with the National Institutes of Health Guide for the Care and Use of Laboratory Animals.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Results
+	Sequence: 3.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Viral cytopathic effect inhibition studies
+	Sequence: 3.
+		/-----------------------Paragraph-----------------------------/
+		Six compounds representing different classes, were evaluated for antiinfluenza virus activity in cell culture against oseltamivir-sensitive influenza A/California/seven/two thousand and nine virus, and oseltamivirresistant influenza A/MS-H275Y and A/HK-H275Y viruses. Against the sensitive virus, the three neuraminidase inhibitors showed similar inhibitory activity of zero point zero four 0.0eight lM, with ribavirin activity at twenty eight lM, and amantadine and rimantadine showing no antiviral effect. Against the H275Y viruses, oseltamivir carboxylate was inactive at one hundred lM, peramivir exhibited protection at about eight lM, and zanamivir was inhibitory at zero point two four zero point three six lM. Amantadine and rimantadine were both highly active against A/MS-H275Y, but were not active against A/HK-H275Y. Ribavirin was inhibitory at twenty five thirty three lM. These values are comparable to the published values against the non-mouse-adapted influenza A/MS-H275Y virus. 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Viral neuraminidase inhibition experiments
+	Sequence: 3.
+		/-----------------------Paragraph-----------------------------/
+		The three inhibitors of viral neuraminidase were tested for inhibitory activity against one oseltamivir-sensitive and two oseltamivir -resistant. Oseltamivir carboxylate was ineffective against the two H275Y enzymes at one hundred nM. Peramivir showed activity at twenty nine thirty eight nM. Zanamivir was highly active at zero point nine one nM against the drug-resistant viruses. Against the wild-type A/California/seven/two thousand and nine virus, all three compounds were active, although oseltamivir carboxylate was slightly less potent than the other two compounds.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Efficacy of neuraminidase inhibitors in infected mice
+	Sequence: 3.
+		/-----------------------Paragraph-----------------------------/
+		Oseltamivir and zanamivir were evaluated for efficacy against influenza A/MS-Htwo75Y virus infections in mice. Treatments were initiated either two h prior to virus challenge or twenty four h after infection. In the two h infection, oseltamivir was partially protective at one hundred and three hundred mg/kg/day, with survival rates of thirty percent  and sixty percent, respectively. Lower doses of oseltamivir were not active. When treatment initiation time was delayed to +twenty four h, all doses of oseltamivir were ineffective. Treatment with zanamivir starting at two h provided protection of twenty percent, thirty percent, sixty percent, and ninety percent  at doses of three ten thirty, and one hundred mg/kg/day. The one-mg/kg/day dose of zanamivir was ineffective. Considerably less activity was observed for the +twenty four h treatments. The one hundred-mg/kg/day dose of zanamivir delayed the time to death significantly but did little to prevent mortality. Thus, neither oseltamivir nor zanamivir were able to treat an established infection. Table two Inhibitory activities of compounds on influenza A neuraminidases. a fifty percent  Inhibitory concentration, determined by NA-Star assay. Data are from three independent assays. b Oseltamivir-sensitive virus.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Efficacy of M2 channel inhibitors in infected mice
+	Sequence: 3.
+		/-----------------------Paragraph-----------------------------/
+		Amantadine and rimantadine were tested for their ability to prevent or delay the time to death in mice challenged with the A/MS-Htwo75Y virus. Doses of amantadine initiated at two h were eighty one hundred percent  protective, with no effect seen at three mg/kg/day. Some activity was lost by delaying treatment to +twenty four h. The thirty and one hundred mg/kg/day doses were sixty percent  and one hundred percent  protective, respectively. No significant effect was seen at three and ten mg/kg/day compared to placebo. Rimantadine provided a survival benefit at ten and thirty mg/kg/day, starting either at two or +twenty four h, with no significant effect at one and three mg/kg/ day. Survival observed was between seventy percent  and one hundred percent, although in these experiments the placebo groups had a survival rate of twenty percent. Both amantadine and rimantadine were able to treat the infection after its onset.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Efficacy of ribavirin in infected mice
+	Sequence: 3.
+		/-----------------------Paragraph-----------------------------/
+		The protective activity of ribavirin was studied in mice infected with influenza A/MS-Htwo75Y virus. Treatment efficacy was similar for treatments initiated either at twoh or at +twenty four h, although there were more survivors at thirty mg/kg/day in the two h group. Ribavirin was not effective at three and ten mg/kg/day. At the higher doses, ribavirin was capable of treating the infection after it was initiated.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Efficacy of oseltamivir and ribavirin against influenza A/HK-H275Y virus infection in mice
+	Sequence: 3.
+		/-----------------------Paragraph-----------------------------/
+		Oseltamivir and ribavirin were used to treat an A/HK-Htwoseventy fiveY virus infection starting treatment at two h relative to virus challenge. Oseltamivir was partially protective at one hundred and three hundred mg/kg/day, with survival rates of fifty percent  and seventy percent, respectively. Doses of three and ten mg/kg/day were not significantly effective compared to placebo. Ribavirin was fully protective at seventy five mg/kg/day. These survival results for oseltamivir treatment were similar to those obtained in treating the A/MS-Htwoseventy fiveY virus infection. Body weights were determined during the A/HK-Htwoseventy fiveY virus infection. Weight decline was least severe in the Oseltamivir carboxylate Peramivir Zanamivir A/MS-Htwoseventy fiveY A/California/seven/twenty09b >one hundred ten point five 1.three D.F. Smee and others / Antiviral Research ninety six thirteen twenty seventeen ribavirin group, with weight gain starting after day eight of the infection. Body weights in mice treated with oseltamivir at one hundred and three hundred mg/kg/day did not fall as rapidly as in the lower dosage and placebo groups. Body weights in these groups began to increase after day ten. Lung virus titers from infected mice were determined on days three and six of the infection. On day three, only ribavirin treatment significantly reduced virus titers compared to placebo. Virus titers in the ribavirin treatment group were not significantly lower than placebo on day six, however.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Discussion
+	Sequence: 4.
+		/-----------------------Paragraph-----------------------------/
+		In this report we demonstrated that two different influenza A viruses possessing the H2seventy fiveY mutation in the neuraminidase gene could be mouse adapted to because fatal infections in mice. The H2seventy fiveY mutation was stable during the mouse passages, as determined by genetic analysis of the relevant region of the neuraminidase gene. The viruses were also evaluated in cell culture and neuraminidase assays to demonstrate that they were phenotypically resistant to oseltamivir. The mouse infection models were then used to demonstrate antiviral activities of several known-active antiviral agents. This is not the first time that antiviral studies in mice were performed with oseltamivir-resistant viruses. The first study that we are aware of was that of Baz and others using a recombinant influenza A/WSN/thirty three H2seventy fiveY virus. In that report, they evaluated oseltamivir and a novel inhibitor, A322278. Oseltamivir was only used up to ten mg/kg/day, giving a mortality rate of seventy five percent. We used higher doses of the drug and saw survival rates of thirty fifty percent  at one hundred mg/kg/day and sixty seventy percent  at three hundred mg/kg/day. It is not known whether the A/WSN/thirty three H2seventy fiveY virus reported by Baz and others would perform the same as our viruses in infected mice if treated with higher doses of oseltamivir. This report differs from that of Baz and colleagues in showing antiviral activities of amantadine, rimantadine, ribavirin, and zanamivir, which to our knowledge has never been shown before in a mouse model of oseltamivir-resistant virus infection.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: D.F. Smee and others / Antiviral Research 96 13 20
+	Sequence: 18
+		/-----------------------Paragraph-----------------------------/
+		The cell culture studies demonstrated that the A/MS-H275Y and A/HK-H275Y viruses were resistant to oseltamivir, showed decreased sensitivity to peramivir, and were highly sensitive to zanamivir. The A/MS-H275Y virus was also inhibited by amantadine and rimantadine whereas the A/HK-H275Y was resistant to the adamantanes. Ribavirin was the least potent in cell culture of the compounds tested. The relative potencies identified for these compounds in vitro are similar to published reports for oseltamivir, zanamivir. Since the A/HK-H275Y virus is resistant to oseltamivir and to adamantanes, it offers more limited possibilities for combina tion treatment than the A/MS-H275Y virus. The A/MS-H275Y virus has already shown to be synergistically inhibited in vitro by the combination of oseltamivir carboxylate, amantadine, and ribavirin. It will be important to investigate such combinations in mouse models of oseltamivir-resistant virus infection.
+	/**************************End Block***************************************/

@@ -1,0 +1,76 @@
+Title: For personal use only. No other uses without permission
+/***********************************************************************/
+Abstract: 
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: 
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		In March two thousand and fourteen the World Health Organization was notified of an outbreak of a communicable disease characterized by fever, severe diarrhea, vomiting, and a high fatality rate in Guinea. Virologic investigation identified Zaire ebolavirus as the causative agent. Full-length genome sequencing and phylogenetic analysis showed that EBOV from Guinea forms a separate clade in relationship to the known EBOV strains from the Democratic Republic of Congo and Gabon. Epidemiologic investigation linked the laboratory-confirmed cases with the presumed first fatality of the outbreak in December two thousand and thirteen This study demonstrates the emergence of a new EBOV strain in Guinea.
+		/-----------------------Paragraph-----------------------------/
+		utbreaks caused by viruses of the genera ebolavirus and marburgvirus represent a major public health issue in sub-Saharan Africa. Ebola virus disease is associated with a case fatality rate of thirty to ninety percent, depending on the virus species. Specific conditions in hospitals and communities in Africa facilitate the spread of the disease from human to human. Three ebolavirus species have caused large outbreaks in sub-Saharan Africa: EBOV, Sudan ebolavirus, and the recently described Bundibugyo ebolavirus.1,two Epidemics have occurred in the Democratic Republic of Congo, Sudan, Gabon, Republic of Congo, and Uganda. Reston ebolavirus circulates in the Philippines. It has caused disease in nonhuman primates but not in humans. The fifth species, Tai Forest ebolavirus, was documented in a single human infection caused by contact with an infected chimpanzee from the Tai Forest in Ivory Coast. Although this event indicated the presence of Tai Forest ebolavirus in West Africa, this subregion was not considered to be an area in which EBOV was endemic. On March ten two thousand and fourteen hospitals and public health services in Gu ck dou and Macenta alerted the Ministry of Health of Guinea and two days later M decins sans Fronti res in Guinea about clusters of a mysterious disease characterized by fever, severe diarrhea, vomiting, and an apparent high fatality rate. .
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Viral Sequencing
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Fragments amplified by filovirus L gene specific primers were sequenced with the use of polymerase -chain-reaction primers. Complete EBOV genomes were sequenced directly with the use of RNA extracted from serum obtained from three patients with high levels of viral RNA, as measured on real-time reverse-transcriptase PCR analysis. The genome was amplified in overlapping fragments with the use of EBOV-specific primers. The fragments were sequenced from both ends with the use of conventional Sanger techniques. The sequence of the contigs was verified by visual inspection of the electropherograms.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Viral Isolation
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		About one hundred l of all serum samples was used to inoculate Vero E6 cells maintained in twenty five-cmtwo flasks in Dulbecco s modified Eagle s medium containing two to five percent  fetal-calf serum and penicillin streptomycin. Cells and supernatant were passaged several times. Virus growth in the cells was verified on immunofluorescence with the use of polyclonal mouse anti-EBOV specific antibodies in the serum of mice challenged with EBOV or on the basis of an increase in viral levels in the cell-culture supernatant over several orders of magnitude, as measured on real-time RT-PCR.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Patients
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Blood samples were obtained from twenty patients who were hospitalized in Gu ck dou, Macenta, and Kissidougou because of fever, diarrhea, vomiting, or hemorrhage. Demographic and clinical data for the patients were provided on the laboratory request forms. Clinical data were not collected in a systematic fashion. This work was performed as part of the public health response to contain the outbreak in Guinea; informed consent was not obtained. Electron Microscopy Specimens from two patients were prepared for electron microscopy with the use of a conventional negative-staining procedure. In brief, a drop of one:one0 diluted serum was adsorbed to a glow-discharged carbon-coated copper grid and stained with freshly prepared one percent  phosphotungstic acid. Images were taken at room temperature with the use of a Tecnai Spirit electron microscope equipped with a LaB6 filament and operated at an acceleration voltage of eighty kV.  
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Phylogenetic Analysis
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We obtained all forty eight complete genome sequences of filoviruses that are currently available from GenBank and aligned them with the new EBOV Guinea sequences. We used software designed to perform statistical selection of best-fit models of nucleotide substitution to identify the general time-reversible model of sequence evolution with gamma-distributed rate variation among sites as the model that best describes the phylogenetic data. We used the Bayesian Markov Chain Monte Carlo method, as implemented in MrBayes three hundred and twelve software,one3 to infer the composition of one phylogenetic tree, using two runs of four chains with one million steps with a burn-in rate of twenty five percent  and the GTR+gamma model. A second tree was inferred for the same alignment with a maximum-likeli n engl j med nejm. brief report hood method implemented in PhyML softwareone4 under the GTR+gamma model with one thousand bootstrap replications. A reconstruction of the EBOV phylogenetic tree with the use of molecular clock models is provided in Sone in the Supplementary Appendix.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Epidemiologic Investigations
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We gathered data on possible transmission chains from hospital records and through interviews with patients in whom EBOV infection was suspected and their contacts, affected families, inhabitants of villages in which deaths occurred, attendants of funerals, public health authorities, and hospital staff members. quences were identical for all confirmed cases, except for a synonymous T-to-C polymorphism at position thirteen thousand, five hundred and sixty which was found in Patients C12 and C14.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Sequencing of Samples from Patients
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The EBOV in samples obtained from three patients was completely sequenced with the use of conventional Sanger techniques, nine thousand, nine hundred and twenty three thirteen thousand, eight hundred and fifty six and fifteen thousand, six hundred and sixty The Guinean EBOV strain showed ninety seven percent  identity to EBOV strains from the Democratic Republic of Congo and Gabon. Phylogenetic analysis of the full-length sequences by means of Bayesian and maximum-likelihood methods revealed a separate, basal position of the Guinean EBOV within the EBOV clade.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Clinical and Epidemiologic Analysis
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The prominent clinical features of the EBOV infection in the confirmed cases were fever, severe diarrhea, and vomiting; hemorrhage was less fre quent. The case fatality rate in the initial cases Results
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Identification of the EBOV Strain
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		To detect the causative agent, we used conventional Filoviridae-specific RT-PCR assays targeting a conserved region in the L gene to test samples obtained from twenty hospitalized patients who were suspected of being infected with a hemorrhagic fever virus.five,6,9 In addition, we performed EBOV-specific real-time RT-PCR assays targeting the glycoprotein gene.7,10 Samples from fifteen of twenty patients tested positive on the conventional L gene PCR assay and the real-time assays. EBOV was identified in the serum of one patient on electron microscopy and was isolated in cell culture from five patients. None of the samples were positive for Lassa virus on Lassa virus specific RT-PCR assays.8,11 Sequencing of the fragments amplified by the L gene RT-PCR assays revealed EBOV sequences. The partial L gene sewas eighty six percent    are shown on the branches. For clarity of presentation, the branches for the non-EBOV species were shortened and condensed. The GenBank accession number, strain designation, country of origin, and year of isolation are indicated on the EBOV branches. The EBOV Guinea strain is available from the European Virus Archive. 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Discussion
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		This study demonstrates the emergence of EBOV in Guinea. The high degree of similarity among the fifteen partial L gene sequences, along with the three full-length sequences and the epidemiologic links between the cases, suggest a single introduction of the virus into the human population. This introduction seems to have happened in December two thousand and thirteen Further epidemiologic investigation is ongoing to identify the presumed animal source of the outbreak. It is suspected that the virus was transmitted for months before the outbreak became apparent because of clusters of cases in the hospitals of Gu ck dou and Macenta. This length of exposure appears to have allowed many transmission chains and thus increased the number of cases of Ebola virus disease. The clinical picture of the initial cases was predominantly fever, vomiting, and severe diarrhea. Hemorrhage was not documented for most of the patients with confirmed disease at the time of sampling but may have developed later in the course of the disease. The term Ebola virus disease   takes into account that hemorrhage is not seen in all patientsfifteen and may help clinicians and public health officials in the early recognition of the disease. The case fatality rate was eighty six percent  among the early confirmed cases and seventy one percent  among clinically suspected cases, which is consistent with the case fatality rates observed in previous EBOV outbreaks.   Phylogenetic analysis of the full-length sequences established a separate clade for the Guinean EBOV strain in a sister relationship with other known EBOV strains. This suggests that the EBOV strain from Guinea has evolved in parallel with the strains from the Democratic Republic of Congo and Gabon from a recent ancestor and has not been introduced from the latter countries into Guinea. However, the determination of both the timing of the introduction of the virus into Guinea and its phylogenetic origin also depend on our understanding of the evolutionary rate of EBOV in nature (Fig.  S1  and Myonycteris torquata, are present in large parts of West Africa. Therefore, it is possible that EBOV has circulated undetected in this region for some time. The emergence of the virus in Guinea highlights the risk of EBOV outbreaks in the whole West African subregion. Supported by a grant from the European Community. The National Reference Center for Viral Hemorrhagic Fevers in Lyons, France, is supported by the Institut National de Veille Sanitaire. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. We thank Celine Nezan, Roberto de la Tour, V ronique Pinot, Fr d ric Lautram, and Sallia Swarray for their assistance in obtaining and transporting samples from Guinea to Europe; Stephanie Mundweiler, Alexandra Fizet, Jean-Michel Thiberge, Laure Diancourt, Sonja Maersmann, Elisa Pallasch, Britta Liedigk, and Hendrik Herrmann for their technical assistance in virus detection, sequencing, and visualization on electron microscopy; Caesar Munoz-Fontela for providing EBOV sequencing primers; Boubacar Diallo for data management; and Francis Mulemba for logistical support during the preparation of the manuscript.
+	/**************************End Block***************************************/

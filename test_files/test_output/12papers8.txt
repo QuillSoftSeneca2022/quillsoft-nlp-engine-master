@@ -1,0 +1,50 @@
+Title: 
+/***********************************************************************/
+Abstract: The present state of emerging and re-emerging infections around the world has resulted in panic and confusion. The loss of lives due to these infections is huge. Also, the absence of clear guidelines and definitive treatment due to the paucity of literature has instilled fear among the general public. In this paper authors discuss some of these infectious diseases that have led to a state of complete chaos in the recent past.
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: INTRODUCTION
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The developing countries are facing a number of issues related to public health. There are a growing number of diseases that has led to panic and fear among the lay public. The situation is so grave that the emergence of certain diseases like Zika virus disease, swine influenza has resulted in total chaos. The reason could well be attributed to the absence of clear management guidelines for these diseases. Also, there is no preventive algorithm which could be followed to curb these infections well before they could lead to large scale morbidity and mortality. The current situation is alarming and demands action, especially in developing countries where the major part of the population earns very less and the commitment from the annual budget towards the health of the citizen is not substantial. The present situation requires all the stakeholders, including the general public, government agencies, and private agencies, including the NGO's like HIFA2015, etc. to work in unison.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Ebola virus disease
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The West Africa has been flattened by the Ebola virus. The Ebola virus causes Ebola virus disease characterized by hemorrhagic fever. And since its discovery in one thousand, nine hundred and seventy six has claimed millions of lives with many still suffering. The recent reports from the WHO shows the presence of the Ebola virus RNA in the breast milk of affected mothers even after sixteen months.
+		/-----------------------Paragraph-----------------------------/
+		The disease has already created a situation of fear among the survivors and thus in this context the recent reports are gruesome. The disease has led to devastation in countries where HIV-AIDS has already claimed huge number of lives. As per the CDC, there is no FDA approved vaccine for Ebola virus. Thus the situation demands precautionary methods to be followed to prevent the transmission of this deadly disease.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Middle East respiratory syndrome coronavirus infection
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The MERS-CoV came into limelight with a report from the WHO about one thousand, five hundred and ninety nine lab confirmed cases with five hundred and seventy four mortalities. The disease is caused by a single stranded RNA virus of the genus Betacorona virus. The virus has been found in bats, camels and humans. The paucity of literature has forced the authorities to advice for practicing utmost hygiene with control over droplet infections. The population with conditions like chronic lung disease, diabetes, renal failure, and immunecompromised individuals are considered to be at high risk. There is no definitive treatment available for this infection and thus the precautions like hand washing, airborne infection control, including droplet control are some of the basics to be applied as advised by the WHO.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Swine influenza/ flu
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The WHO declared the first pandemic of the 21st century in the year two thousand and nine and it was swine influenza. The present circulating strain of swine origin influenza virus of the H1N1 strain contains genes from the avian, swine and human viruses and has undergone triple reassortment. Swine influenza is a highly
+		/-----------------------Paragraph-----------------------------/
+		The Journal of Community Health Management, January-March 2016;3 :forty one-forty three forty one Sankalp Yadav and others An Overview of the Latest Infectious Diseases around the World transmissible acute respiratory disease of the pigs and the transmission in humans occurs by inhalation or ingestion of droplets containing viruses from people sneezing or coughing; it is not transmitted by eating cooked pork products. The disease has led to massive morbidity and mortality and even today there is no effective preparedness plan from the disease. The winters come with a news of swine flu cases followed by complete chaos with large number of people suffering and ultimately the whole things stops when the summer season comes. The lack of preparedness leads to huge losses of life. The only way the disease can be prevented is by immunizing with the influenza vaccine. But the vaccine takes time to boost the immunity which last only for a year thus there is no radical cure for the disease. The role of antiviral drugs like Zanamivir, if taken within forty eight hours is said to be effective. However, there are papers available in medical literature that has even questioned the safety and effectiveness of these drugs.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Zika virus disease
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The disease is caused by a flavivirus which is an arbovirus belonging to Flaviviridae. The disease was first isolated from Uganda in a rhesus monkey and since then the same has been isolated in other primates and even in humans. The disease is caused by an RNA virus called as Zika virus and is transmitted by infected Anopheles species. The disease is actually a reemergence of an obscure virus found in the equatorial region. The ZIKV came into limelight with the outbreak of manifold increase in the fetal birth defects notably microcephaly. The disease as such is a self-limiting disease with no casualties, but the situation in the pregnant women is different. The mother to fetal transmission of ZIKV could lead to fetal birth defects and this is based on the initial but limited findings reported by the amniocentesis findings in the newborns. Besides, transmission by blood, urine, semen is also described in detail elsewhere. There is a paucity of scientific literature on this disease and thus there is no definitive treatment options available. The only way to protect is to refrain from mosquito bites. The disease has led to total chaos and fear and this is based on the reports in which the afflicted countries have even requested the women to postpone pregnancy. The CDC has issued interim guidelines to control ZIKV, but the same is not based on extensive research and is only based on the whatsoever cases available.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Conclusions
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		There is an urgent need to control the infections prevailing around the world. The role of surveillance is extremely important as the new infections are emerging. The efforts should be made to develop definitive management guidelines. If the actions are not taken, then there will be a complete chaos and large scale morbidity and mortality. The dissemination of healthcare information to all the sections of the society is warranted. Furthermore, the extensive research into the various aspects of the aforementioned diseases is also imperative.
+	/**************************End Block***************************************/

@@ -1,0 +1,92 @@
+Title: Raj Kumar1 1Department of Respiratory Intensive Care, Max Super Specialty Hospital, Saket, 2Department of Medicine and TB
+/***********************************************************************/
+Abstract: The Zika virus has been in the news for quite some time due to the ongoing recent outbreak in the Southern America, which started in December two thousand and fifteen It has been declared a public health emergency by the World Health Organization in February two thousand and sixteen owing to its association with the congenital deformities, particularly microcephaly in infants borne to the infected mothers. The rapid spread of the virus throughout the United States of America and subsequently to Asia has raised serious international concerns. Its spread to countries neighboring India is a serious threat to the Indian population. This review article gives an overview about the virus, its diagnosis, clinical features, and the management.
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: INTRODUCTION
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		A number of emerging and re-emerging infections have taken a heavy toll on the public health around the globe. Some of these infections that have been in the news recently include the swine influenza, severe acute respiratory syndrome, Middle East respiratory syndrome, Ebola virus disease, and the Zika virus infection. The situation in resource-limited countries is really grave due to growing panic and fear, especially in the absence of clear management guidelines and definitive treatment. Although initially some of these infections have been confined to particular geographical areas such as the MERS-Corona virus infection in the middle-east, ZIKV in South America, and Ebola virus disease in the Western Africa, but the situation may become really serious due to rapid globalization, international migration, and relatively easy travel to and from these afflicted countries resulting in the dissemination of these infections to newer countries. The affected cases may travel to other countries where the infection may not have been present and eventually lead to the spread of the pandemic. Most remarkable among all these infections is the infection by ZIKV that has crossed all international borders and has been reported from various corners of the globe.
+		/-----------------------Paragraph-----------------------------/
+		ZIKV was first identified, almost seventy years ago, in rhesus monkeys during a yellow fever surveillance in the Zika Forest in Uganda and was initially reported in humans in one thousand, nine hundred and fifty two Seldom was imagined that this virus will become a major international public health concern in the 21st century. Its rapid spread throughout the American continent in two thousand and sixteen and its potential to because congenital abnormalities in infants have raised serious concerns. This led to the World Health Organization declaring the ZIKV infection as a global health emergency on February one two thousand and sixteen.
+		/-----------------------Paragraph-----------------------------/
+		About Zika Virus ZIKV is one of the re-emerging arboviruses which is transmitted by Aedes mosquito. It is a single-stranded RNA virus belonging to the genus Flavivirus of the Flaviviridae family and has been related to the other Flaviviruses including yellow fever virus, dengue virus, chikungunya virus, and West Nile virus. ZIKV virus has two major geographically different lineages: Asian and African. ZIKV in Africa is This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike three License, which allows others to remix, tweak, and build upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms. 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Epidemiology
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Since its isolation from Uganda, it has been reported to be associated with sporadic human infections in Africa and Asia. The most remarkable details are available from the epidemic that occurred in Yap Island, Micronesia, and in New Caledonia. ZIKV infection in Brazil was confirmed in May two thousand and fifteen and by January two thousand and sixteen the ZIKV epidemic had spread to many countries of Americas, including Bolivia, Brazil, Cape Verde, Colombia, Dominican Republic, Ecuador, El Salvador, French Guiana, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Martinique, Mexico, Panama, Paraguay, Saint Martin, Samoa, Suriname, and Venezuela.
+		/-----------------------Paragraph-----------------------------/
+		Transmission ZIKV transmission to human takes place mostly via the bite of an infected Aedes aegypti mosquito which breeds in fresh standing water and usually bite during the daytime   also have the potential to spread the virus.
+		/-----------------------Paragraph-----------------------------/
+		Few cases of person to person presumptive sexual transmission of ZIKV have been reported in women who had sexual intercourse with the partners suffering from the ZIKV illness. Researchers have also confirmed the presence of the ZIKV RNA in semen of the affected male giving the hypothesis of sexual spread of the ZIKV illness.
+		/-----------------------Paragraph-----------------------------/
+		ZIKV RNA has also been detected in blood, urine, saliva, cerebrospinal fluid, amniotic fluid, and breast milk. Maternal to fetal transmission can occur, as the virus can cross the placental barrier resulting in congenital infection and also intrapartum transmission can occur. ZIKV transmission through breastfeeding has not yet been described, and thus it is recommended that the affected mothers continue to breastfeed their babies.
+		/-----------------------Paragraph-----------------------------/
+		Clinical Manifestations typically occur approximately two-twelve days after the Aedes mosquito bite and usually resolve within two-seven days. The patients with clinical signs and symptoms along with a history of travel to ZIKV endemic areas should raise a suspicion for its diagnosis.
+		/-----------------------Paragraph-----------------------------/
+		Postnatal ZIKV infection in infants and children present with similar signs and symptoms as that of adults. Arthralgia in infants usually manifests as the child being irritable, walking with a limp, having difficulty in moving or refusing to move an extremity, or pain with active or passive movement of the affected joint or on palpation of the joint.
+		/-----------------------Paragraph-----------------------------/
+		Complications ZIKV infection has been associated with various complications, including congenital microcephaly, Guillain-Barre syndrome, and even fetal losses in women infected during pregnancy.
+		/-----------------------Paragraph-----------------------------/
+		Congenital infection: ZIKV infection in pregnant mothers can occur in any trimester and is reported to because microcephaly in infants with many confirmed reports coming from Brazil showing the association of the virus infection with microcephaly in the newborn and even infant death. The cases of muscular atrophy have also been observed in children with microcephaly born after the onset of the ZIKV outbreak in Brazil.
+		/-----------------------Paragraph-----------------------------/
+		ZIKV infection acquired during pregnancy is associated with poor outcomes of the fetus, which includes central nervous system injury, placental insufficiency, in vitro fetal growth restriction, and also fetal death. 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Rawal, and others: Zika virus An overview
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Serum RT-PCR is positive if done in the acute phase of the viremia, i.e., the first three-seven days of the onset of illness. The specific antibodies against ZIKV in serum are detectable after four days of symptom onset, but its diagnostic value is limited due to cross-reactivity with other Flaviviruses. In ZIKV infection, the serum titers of the IgM antibody are 2:four-fold greater than DENV antibody titers, thus helping in the diagnosis.
+		/-----------------------Paragraph-----------------------------/
+		The medical literature has studies suggesting that the ZIKV RNA can be detected in urine, and saliva of the patients for a longer duration than the serum by the RT-PCR method.
+		/-----------------------Paragraph-----------------------------/
+		Prenatal fetal evaluation of the pregnant females suspected or confirmed to have a ZIKV infection is done by regular fetal ultrasound examination, which can detect abnormalities at as early as eighteen-twenty weeks of gestation, but is also operator dependent. The main ultrasound findings pointing toward fetal ZIKV infection are microcephaly, hydranencephaly, ventricular dilatation, brain atrophy, anhydramnios, hydrops fetalis, and intrauterine growth retardation.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Management
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		There is no specific treatment option available for ZIKV infection. The course of the disease is mostly self-limiting and the management is primarily bed rest and supportive care, including increased intake of fluids to prevent dehydration and administration of acetaminophen for relief of fever and pain. There is no vaccine or antiviral therapy available presently for ZIKV. The preventive measures involve the control of the vector growth and its elimination and prevention of mosquito bites. The sexual mode of transmission can be avoided by the use of barrier methods or abstinence from sexual intercourse.
+		/-----------------------Paragraph-----------------------------/
+		Mosquito bites can be prevented by wearing long sleeve shirt and pants, use of insect repellent, and being indoors as much as possible.
+		/-----------------------Paragraph-----------------------------/
+		Aedes mosquitoes breed in stagnant water, thus found in abundance in places of on-going construction. Moreover, these mosquitoes are commonly found in tropical and sub-tropical areas, making Asian countries an endemic zone for growth of Aedes. Environmental control measures include the identification and elimination of the potential breeding sites of water stagnation.
+		/-----------------------Paragraph-----------------------------/
+		So far the cases of ZIKV in India have not been reported, but a study conducted in six states of India in the year one thousand, nine hundred and fifty two-one thousand, nine hundred and fifty three reported the neutralizing antibodies in the sera to certain viruses including ZIKV in the Indians. This detection could well be due to cross reactivity among different Flavivirus antibody assays. However, the recent reports from Bangladesh are alarming where the first case of ZIKV infection in a sixty seven-year-old male has been detected. The problem of ZIKV could become really grave in Asian countries due to warm and humid conditions which are ideal for the mosquito vector breeding. In these resources-strained countries where the per capita income is low and there is a meagre contribution from the government s annual health budget, the emergence of ZIKV could only add to the woes. Moreover, in the absence of clear guidelines, management strategies, and cure, the proper dissemination of the healthcare information about the ZIKV is imperative, and thus the role of all the stakeholders, including clinicians, healthcare workers, the general public, government agencies, NGO s such as the HIFA2015 is very important.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Zika Virus Epidemic Concerns
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The outbreak of ZIKV infection in two thousand and thirteen in the French Polynesia is considered to be the largest and is postulated to have spread to Brazil during the major sport events of two thousand and fourteen the World Cup Soccer and the Va a World Sprint Championship canoe race, which were hosted by Brazil. Now with the upcoming Summer Olympics in August two thousand and sixteen to be again hosted in Brazil, the spread of this virus to a massive scale remains a global concern.
+		/-----------------------Paragraph-----------------------------/
+		The rapid spread of the zoonotic diseases such as ZIKV is due to the urbanization of the forest areas for the ever expanding human population. Moreover, the speed and the ease of transport not only for humans, but also for disease vectors, lead to the rapid and widespread dissemination of the disease.
+		/-----------------------Paragraph-----------------------------/
+		India carries a potential threat of outbreak of ZIKV infection, being an endemic country for the vector and thus realizing the same, the Indian government has issued guidelines for tackling this problem.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Conclusions
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The recent outbreaks of ZIKV infection in the Americas have brought this emerging arbovirus disease into the limelight as a because of congenital anomaly in infants born to infected mothers. The rapid spread of ZIKV is an international because of concern with the virus reaching the Asian countries, including the neighboring countries of India. The other issue of the epidemic control in future to be addressed is the spreading menace of the mosquito borne diseases due to the inadequate control of breeding of this vector. Furthermore, there is a need for large scale animal and human studies from various corners of the globe so that the clear management guidelines can be developed against ZIKV. Furthermore, efforts to control the emerging menace due to obscure and new virus should be given prime importance. Financial support and sponsorship Nil.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Journal of Family Medicine and Primary
+	Sequence: 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Conflicts of interest
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		There are no conflicts of interest.
+	/**************************End Block***************************************/

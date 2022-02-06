@@ -1,0 +1,29 @@
+Title: 
+/***********************************************************************/
+Abstract: The H1N1 influenza A, also known as swine flu, has caused widespread panic not only in India, but across the world. It emerged as pandemic in two thousand and nine and made the whole world realize its dreadful presence. Early diagnosis, identification of the risk factors and prompt antiviral treatment along with preventive measure, including vaccination and chemoprophylaxis are the mainstay of management and can help in containment of this deadly disease. The authors give a concise review of the H1N1 influenza A.
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: INTRODUCTION
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Swine flu or the H1N1 influenza has emerged as one the deadliest infectious disease in the past decade, occurring as pandemic or epidemic throughout the world. It is now recognized as a global health burden and has been baffling the health authorities worldwide to prevent its spread, especially from human to human. The World Health Organization declared the swine flu a pandemic in two thousand and nine and since then it has been on every physician's mind, knowing its lethal nature. Swine flu was named so as the virus was first isolated in pigs in one thousand, nine hundred and thirty in the United States of America. The swine flu pandemic of two thousand and nine, originated in Mexico. Swine flu is a respiratory disease caused by influenza virus affecting the pigs, which, when infected show the symptoms like decreased appetite, increased nasal secretions, cough, and listlessness. Thus the pigs are the reservoirs the virus. The causative virus of the swine influenza is the Influenza A with five subtypes namely: H1N1, H1N2, H2N3, H3N1, and H3N2. Out of these subtypes, the H1N1 Influenza A strain was isolated in the infected humans and the rest of the four subtypes were only exclusive in pigs. The H1N1 virus is an enveloped RNA virus belonging to the family orthomyxoviridae, and name comes from the two surface antigens: H1 and N1.
+		/-----------------------Paragraph-----------------------------/
+		Transmission: People who work in close proximity with pigs, like farmers and pork processors, are at increased risk of catching swine flu from pigs through aerosol transmission. The modes of transmission of H1N1 influenza virus in humans, from person to person, includes: inhalation of infected droplets   and continue to be positive for H1N1 RT-PCR test, even after ten days of treatment with Oseltamivir, then the resistance to this antiviral must be considered.
+		/-----------------------Paragraph-----------------------------/
+		Indian Journal of Immunology and Respiratory Medicine, April-June two01seven;two :two9-thirty two thirty one Gautam Rawal and others Swine Flu : A concise review Prevention : Quarantine: The close contacts of the suspected, probable and confirmed swine cases are advised to remain at home and avoid travelling for at least seven days after the last contact with the case and monitored for any symptoms. If any symptoms are reported the contacts should undergo prompt test for H1N1 influenza and consult physician. If admitted in a health care facility, the patient should be managed in a single-patient room with the door kept closed, air condition ducts with high particulate air filter and with negative-pressure. Cough and Hand hygiene: Highly recommended and most important for all the patients and their contacts. Hands must be frequently washed with soap and water/alcohol based hand rubs/ antiseptic hand wash and then thoroughly dried. The infected persons should cover their nose and mouth with a single use tissue while coughing or sneezing, and the tissue must be disposed off immediately. The health care workers who are involved in the direct care of the patients with confirmed or suspected swine flu infection should observe strict contact and droplet precautions. The injectable vaccine against influenza A/H1N1 is available and has to be taken yearly. The immune response of the body takes about two-three weeks to develop after vaccination and till then chemo-prophylaxis can be used. There is a need to regularly update the guidelines for management of such a deadly disease by the government agencies also its imperative to disseminate such healthcare information to all.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Conclusions
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The swine flu has emerged as a dreadful infectious disease all over the world. The preventive measures, chemoprophylaxis and vaccination have played a major role to curtail its spread. The mutations in the virus resulting in resistance to the antiviral treatment have become a because of concern and being researched upon. In India, with the new cases coming every year this disease has resulted in a panicky situation. More research is needed to understand and control the spread of this disease.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Conflicts of interests: None declared
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Acknowledgements: None
+	/**************************End Block***************************************/

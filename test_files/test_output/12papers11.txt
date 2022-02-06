@@ -1,0 +1,56 @@
+Title: Trends of human influenza infection in Chhattisgarh: a retrospective observational study
+/***********************************************************************/
+Abstract: 
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: INTRODUCTION
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Human influenza virus is a pig transmitted infectious disease and it is appeared to be highest mortality causing disease since past decade. In two thousand and nine it was recognized as pandemic infectious disease by World health Organization, which was transmitted via human to human by aerosol. Influenza was first time recognized as Spanish flu in, which was also pandemic in nature. Illness oftenly present in farmers who had swine in their farms and that was observed by veterinarian J. S. Koen. The isolation of pig derived H1N1 virus was first time obtained during one thousand, nine hundred and thirty by Shope and Lewis then in one thousand, nine hundred and seventy four human derived H1N1 virus was isolated, which confirm the hypothesis that pig derived H1N1 virus could infect human too.
+		/-----------------------Paragraph-----------------------------/
+		Human influenza or H1N1 influenza or Swine flu is a respiratory tract disorder comprised of flu like symptoms which include sore throat, rhinorrhoea, fever, chills, vomiting, restlessness, anorexia, headache, arthralgia and diarrhea. In patients with immune deficit, the clinical presentation of swine flu could be worsen and may lead to altered sensorium and respiratory collapse. Till date five serotype of H1N1 influenza was isolated which are H1N1, H1N2, H2N3, H3N1, and H3N2. Among these only H1N1 causes human infection and rest are seen only in pigs.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Sharma R and others Int J Basic Clin Pharmacol. 2019 Jun;8 :1288-1291
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Swine flu is an orthomyxo RNA virus, having two surface antigens and zero point one  zero point one
+		/-----------------------Paragraph-----------------------------/
+		In India, twenty seven thousand, two hundred and thirty six laboratory confirmed cases with nine hundred and eighty one deaths were reported during two thousand and nine point four five The post pandemic period sixty two thousand laboratory confirmed swine flu with five thousand deaths was reported by the Ministry of Health and Family Welfare and also stated that the incidence was high during monsoon and low during winter zero point four-eight The incidences of H1N1 influenza were keep rising worldwide. In India there was lack in sufficient data of human influenza virus infection from the many states. This study will provide the newly laboratory diagnosed cases of human influenza virus infection in the state of Chhattisgarh. Patients from category B and C were administered proper therapy for influenza viral infection and samples were sent for confirmation, if the sample was negative, treatment was discontinued. The data related to patients' demographics from the H1N1 visiting screening centers, swine flu outpatient departments and swine flu isolation wards and hospitals from Chhattisgarh were collected. Testing of influenza virus was carried out at microbiology department of Late BRKM Government Medical College, Dimrapal, Jagdalpur.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Collection of samples and confirmation
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Throat or nasal swab samples of suspected cases with influenza-like sign and symptoms were collected in Viral Transport Medium and sent to laboratories maintaining cold-chain. RNA was extracted by Purelink Viral RNA/DNA blood Mini Kit. RNA of each isolate was tested by separate primer/probe sets for InfA, H1N1 and H1 subtype as per the CDC real-time RTPCR protocol  zero point one All the data related to demographic characteristics, was analysed using Epi Info v7.2 and Yates corrected chi-square test. P-value <zero point zero five was considered statistically significant.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: RESULTS
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Total three hundred and forty one samples were collected from different hospitals and medical colleges in the state with suspected Honeoneinfection. Out of total three hundred and forty one sample, fifty four percent  patients were male and the mean age was thirty point three nine nineteen point two years-wise comparison depicted in Table one Trends of suspected cases of influenza infection between both the gender, higher percentage among female thirty one to forty were observed between twenty one to thirty year of age and in males at zero-ten years were the highest. Between Dec two thousand and fifteen to Nov two thousand and seventeen only seven point nine percent  patients were found to be positive of all three subtypes of human influenza stain like Honeone Influenza-A and Honesubtype, while forty six point three percent  patients was found positive for influenza-A, seventeen point three percent  for Honeone twenty four point nine percent  for Honesubtype infection by RT PCR and all three was positive in seven point nine percent. Populated region of Chhattisgarh has higher rate of suspected cases such as Raipur, and Durg, even the most Trible region of Chhattisgarh has comparable higher rate than other district. Maximum number of sample was send from the Raipur district followed by Durg and Raigarh. : Distribution of Sero-positive influenza subtype in most occurring districts of Chhattisgarh.
+		/-----------------------Paragraph-----------------------------/
+		: Comparison of positive influenza serotype in between gender.
+		/-----------------------Paragraph-----------------------------/
+		Raipur has significant number of positive cases of influenza A, H1N1 and H1 subtype than other district of Chhattisgarh state. There was slightly higher incidence of Influenza A, H1N1, and H1 subtype observed in male patients than female. The mean percentage of Influenza-The positive test for influenza A, H1N1, and H1 subtype was high in males than female patients. A was positive in male patient was fifty one point three percent  as compare to female patient was forty eight point seven percent, while fifty two point five percent  male patients were positive for H1N1 as compare to forty seven point five percent  female patients and H1 subtype was positive in fifty point six percent  male patient vs. forty nine point four percent  in female patients.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: DISCUSSION
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The incidence of human influenza viral infection in Chhattisgarh is comparable from other state of India. The collections of sample were higher during rainy season as reported in national health profile of India. From December two thousand and fifteen to November two thousand and seventeen a total number of three hundred and forty one samples were sent to our center, out of which, highest number of sample was received from Raipur district followed by Durg district, which was comparable with the incidence of human influenza infection in the district of Rajasthan. Among these samples seven point nine percent  was seropositive for all three subtypes of influenza virus such as Influenza-A, H1N1, and H1 Subtype.
+		/-----------------------Paragraph-----------------------------/
+		The incidence of Influenza-A was forty six point three percent, H1None and H1 subtype was twenty four point nine percent  from Dec-two thousand and fifteen-two thousand and seventeen Among higher reporting districts of Chhattisgarh, the overall newer case of from Raipur was forty one point eight percent  and Baster for Influenza-A subtype. Similarly, H1N1 is also most common seen in Raipur followed by Raigarh and, H1 Subtype incidences were also high in Raipur followed by Durg. These results signify the higher rate of incidence commonly seen in the state capital as also observed by Malhotra et al. The mean age of male patients those samples was obtained was thirty point three nine nineteen point two years as compare to female patients was thirty point seven seven eighteen point eight In female, common age group presenting Influenza like symptoms was twenty one-thirty years, while the common age group in male patients was thirty one-forty years, age-wise distribution is shown in the table-one and similar distribution was also observed by choudhary et al. In adults, oseltamivir is prescribed seventy five mg twice daily regimen for five days, while Zanamivir is given in a dose of ten mg twice daily, both drugs can be used as prophylaxis of swine flu in an once daily regimen. Chemoprophylaxis should be given to the healthcare professionals, Oseltamivir is given once daily for ten days and may be extended upto six weeks depending upon duration of close contact to the patients. WHO also recommended the vaccine for the healthcare professionals, the response of the vaccine will come after two-three weeks after vaccination. There were some limitation in our study; the power of study was low due to less sample size; the mortality was not calculated and we unable to find the commonest sign and symptoms of human influenza virus in Chhattisgarh region of India.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: CONCLUSION
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The case of Human influenza virus in Chhattisgarh from the period of December two thousand and fifteen to November two thousand and seventeen was only three hundred and forty one which was less than many states of Chhattisgarh. Higher incidences were observed in the state capital then neighbouring district like Durg and Raigarh. There was no significant difference in between gender affected by human influenza, while Influenza A was more common than H1N1 and H1 subtype among the all received samples. The treatment remains the same for swine flu, which includes neuraminidase inhibitors and Adamantanes.
+	/**************************End Block***************************************/

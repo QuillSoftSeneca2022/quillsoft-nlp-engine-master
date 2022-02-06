@@ -1,0 +1,42 @@
+{
+	"grobid_server": "localhost",
+    "grobid_port": "8070",
+    "batch_size": 1000,
+    "sleep_time": 5,
+    "coordinates": [ "persName", "figure", "ref", "biblStruct", "formula" ],
+    "DumpFolder": "./temp/dump/",
+	"UploadsFolder": "./temp/input/",
+    "PDFKitExecutablePath": "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
+	"SentencesByParagraph": 10,
+	"SpacyUPOStags": [
+		"NOUN",
+		"ADJ",
+		"VERB"
+	],
+	"TextExtractionRules": {
+		"PreprocessPDF": true,
+		"ElementsToRemove": ["\\(.*\\)", "\\[.*\\]", ":*Figure \\d*", "[\\u007F-\\uFFFF]+"],
+		"SectionsToRemove": ["^Table \\d*\\.", "^Fig\\. \\d","^Fig \\d*\\.", "^Figure \\d*\\.", "^FIGURE \\d*\\.", ".*Page \\d*", ".*Vol\\. \\d", ".*Issue \\d* Page \\d*", "Correspondence: \\S+@\\S+\\.\\S+"],
+		"BlackListWords": ["AUTHOR MANUSCRIPT", "CORRESPONDING AUTHOR", "ADAPTED FROM", "AUTHOR FOR CORRESPONDENCE:"],
+		"WhiteListHeadings": ["ABSTRACT", "ABSTRACT:", "INTRODUCTION", "INTRODUCTION:"],
+		"MinAlphaInBlock": "50"
+	},
+	"TextTranslation": {
+		"CustomTranslations": [ {"%": " percent ", "&": "and", "#": ""}
+        ],
+		"CustomContractions": {"et al.": "and others"}
+	},
+	"TextSummarization": {
+		"TextrankRatio": 0.2,
+		"SimilarityThreshold": 0.3,
+		"SpacyModel": "en_core_web_md",
+		"Lemma": true
+	},
+	"PhraseExtraction": {
+		"PhrasesPercentage": 5,
+		"TopKeyPhrasesCount": 100,
+		"SimilarityThreshold":0.7,
+		"NGrams": 3,
+		"Normalize": "lower"
+	}
+}

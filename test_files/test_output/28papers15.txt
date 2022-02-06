@@ -1,0 +1,133 @@
+Title: Perceptions and plans for prevention of Ebola: results from a national survey
+/***********************************************************************/
+Abstract: 
+/***********************************************************************/
+
+	/**************************Start Block*************************************/
+	Title: 
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		had received more media coverage than the other five. The high-media frequency diseases were rated as more serious than the more obscure diseases. Both groups overestimated the chances they would get one of the frequently reported diseases. In extreme cases, media coverage can increase fear to the level of panic. For example, in a one thousand, nine hundred and ninety four outbreak of plague in India, the announcement of the disease provoked many people to flee the state of Surat, carrying the disease to other parts of the country. Although news coverage may increase perceived susceptibility and severity, its effects on knowledge are more complex. Several studies have highlighted the high prevalence of misconceptions or low levels of knowledge despite seemingly ubiquitous news coverage. Following the H1N1 pandemic, a survey of Arizona residents found thirty four  percent  were unaware the terms swine flu and H1N1 referred to the same virus. Results of a systematic review of community response studies during that same period found awareness of the pandemic was high, although knowledge levels were only moderate. Even less is known about preparedness behaviors during outbreaks. Literature on previous pandemics shows behavioral intentions for recommended behaviors like hand washing, can be high. Many of these studies have been limited to specific geographic areas.
+		/-----------------------Paragraph-----------------------------/
+		It is unclear what effect news coverage of Ebola in two thousand and fourteen might have had on the American public. Although a number of polls conducted by news agencies have investigated the perceived threat, there remains a paucity of peer-reviewed literature on knowledge, perceptions, and behaviors related to Ebola in the you.S. The purpose of the survey described here was to determine what Americans knew about Ebola, how they perceived the threat, and what steps they had taken to protect themselves and their family members during the winter two thousand and fourteen holiday season. Based on the literature and relevant theory, we hypothesized that Americans may have had higher levels of perceived threat than were warranted by actual risk. We measured attitudes and intentions as described in the Theory of Reasoned Action. In addition, we assessed perceptions and beliefs about possible Ebola-related policies, such as mandatory quarantine and travel bans. Methods Data source We recruited participants through an Internet panel maintained by GfK Custom Research, LLC. The GfK KnowledgePanel consists of fifty thousand adult panel members recruited by address-based sampling. The GfK KnowledgePanel is based on probability sampling covering both online and offline populations in the you.S. GfK presents households with access to the Internet and a netbook computer, if needed. The resulting sample includes representation from listed and unlisted telephone numbers, telephone and non-telephone households, and cell phone-only households, as well as households with and without Internet access. It is important to note that response rates for online panels tend to be lower than for other modes, due to the need to multiply recruitment rate, profile rate, cooperation rate and retention rate for a cumulative response rate. We calculated response rates based on standard formulas for online panel response rates.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Sample selection
+	Sequence: 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Data collection
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		The survey was completed as part of a larger survey with multiple topics and was fielded December five seven two thousand and fourteen All procedures were approved by RTI International s Institutional Review Board. GfK obtains online consent from all panelists at the time they are recruited to the panel and again before each individual survey.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Measures
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Measures are briefly described in this section. Additional file 1: Table S1 provides the full list of measures.
+		/-----------------------Paragraph-----------------------------/
+		Perceived susceptibility and perceived severity Three measures assessed perceived susceptibility and severity. We asked how likely it was that the Ebola outbreak in West Africa would spread to the you.S. and how likely it was that the respondent or their community would be affected by Ebola. The measure of severity asked if someone in the respondent s community were to contract Ebola, how likely they would be to die from the disease.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Perceived threat
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We asked respondents to rate the level of perceived threat for each item on a list of issues, including heart disease, the seasonal flu, a pandemic flu, and Ebola.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Knowledge
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Knowledge was measured with three items capturing how Ebola is spread and how long it could it take for someone to get sick after being exposed.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Behavioral intentions
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We measured behavioral intentions with a list of questions about social distancing and other protective measures.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Attitudes and confidence
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We also measured attitudes toward a number of Ebolarelated policies such as mandatory quarantine and travel bans. We assessed confidence in media, government, and healthcare systems. Other variables included respondent gender, age, race/ ethnicity, education level, income level, you.S. Census region, and parental status. These items were collected as part of a profile completed by panelists upon joining the GfK KnowledgePanel. These data are updated annually.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Analysis
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We calculated the percentage of respondents endorsing each attitude and confidence item by demographic characteristics. Demographic differences in responses were tested using logistic regression models to compute odds ratios adjusted for gender, age, education, race/ethnicity, income, presence of children in the home, and region. We conducted paired t-tests to compare differences in perceived threat and knowledge between Ebola and other issues. The survey data were weighted to represent the you.S. population based on the most recent Census reports. The survey weights were developed using an iterative proportional fitting procedure, utilizing the following demographic characteristics: gender, age, income, race/ ethnicity, region, metropolitan statistical area, and Internet access. The survey weights were then incorporated into our statistical analyses using the survey procedures in SAS version nine point three
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Results
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Demographics Table one presents demographic characteristics of the sample.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Perceived susceptibility and severity
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Only nineteen  percent  of respondents believed it was likely or extremely likely that Ebola would spread to the you.S. . Fig. one depicts the perceived threat of Ebola as compared to other issues in the news. Ebola was reported as less of a threat than heart disease or seasonal flu, but about the same level of threat as West Nile Virus. When asked about their own community, seventy seven  percent  said it was unlikely their community would be affected by Ebola in the next few months, and eighty six  percent  thought it was unlikely they or their family would be affected. Asked how likely someone in their community would be to die from Ebola if they contracted it, twenty two  percent  said it was likely.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Knowledge
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		A number of participants had some inaccurate knowledge. Table two presents responses to the specific knowledge questions. When we created an index for knowledge   the correlation of that index with confidence in one s own ability to understand how Ebola is transmitted or how to protect themselves or their families was very low.
+		/-----------------------Paragraph-----------------------------/
+		Intentions to engage in preparedness behaviors Fifty-two percent of respondents reported engaging in one or more behaviors to prevent contracting Ebola. Forty percent reported intentions to engage in at least two of the behaviors. The most commonly reported were avoiding those who have traveled to West Africa and making changes to hygiene practices such as hand washing, followed by avoiding public transportation during the holiday season, avoiding healthcare facilities, purchasing self-protective supplies, and keeping children home from school or avoiding public places.
+		/-----------------------Paragraph-----------------------------/
+		Ebola;a 
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Confidence in government, health officials and media
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		We asked respondents to rate their confidence in the ability of the government, public health officials, and the media to perform specific roles related to communicating about and managing the Ebola epidemic in the you.S. twenty eight  percent  reported being confident or very confident in the ability of the you.S. government to prevent the spread of Ebola to the you.S. thirty two  percent  were confident in their local hospital s ability to treat the illness, and thirty one  percent  were confident their local hospital could prevent the spread to healthcare workers. Just eighteen  percent  were confident in the media s ability to accurately report on the outbreak. Thirtyone percent said they were confident that public health officials were providing the you.S. public with all of the information they need to know about Ebola; thirty three  percent  were confident that the you.S. has provided the appropriate level of support to countries with Ebola outbreaks. Table four presents the overall means and the means among specific subgroups. Compared to women, men were less confident in their local hospital s ability to prevent healthcare workers from contracting Ebola   and in the media s ability to accurately report on the outbreak. Those in the South also had less confidence in the media s ability to accurately report on the outbreak.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Discussion
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		This study examined knowledge of, perceived risk of, attitudes toward, and behavioral intentions related to Ebola soon after the media coverage of the Ebola epidemic in West Africa and the few cases in the United States. News coverage prior to the survey provides context that allows us to better interpret the survey findings. Towers and others found that news videos on two major news networks between mid-September and late October two thousand and fourteen were highly effective at inciting public concern. Each Ebola-related news video inspired over ten thousand Internet searches and tweets. Basch and others found that only four  percent  of news articles in the three most widelycirculated you.S. daily newspapers between September seventeen two thousand and fourteen and October seventeen two thousand and fourteen included content on precautions the public could take. Although information about the nature of the news coverage prior to our survey provides some indication of the type of information to which the public was exposed, because we used a crosssectional study design, we cannot conclude that the findings from this survey are a direct result of this media coverage. Only nineteen  percent  of survey respondents believed Ebola would spread to the you.S. This is significantly less than reported in surveys conducted earlier in the fall. If social amplification of risk occurred through heavy media volume, the reduction in media coverage that followed the first week of November could possibly have contributed to this decline in perceived risk. One report suggests the amount of coverage decreased from one thousand segments in the four weeks prior to the mid-term elections to only fifty in the two weeks after. The reduction in risk might also be explained by the fact that there were no longer any Ebola cases in you.S. hospitals and transmission to others within the states had been very limited. With regard to relative risk, participants rated Ebola as less of a threat than many of the other issues, with heart disease, seasonal flu, ISIS, and superstorms rating highest and Ebola rating more similarly to pandemic flu, West Nile Virus, and EV-D68, than Ebloa. Without minimizing the crisis in West Africa, this knowledge gap suggests that media coverage of these health threats may have been unbalanced. Despite seemingly reasonable notions of perceived risk of Ebola, slightly more than half of those surveyed said they planned to take some form of action to avoid contracting the illness, including either avoiding public transportation, avoiding those who have traveled to affected areas, or changing hygiene practices. This contrast between perceived susceptibility and behavioral intentions contradicts traditional notions of health behavior theory, which suggest people are most likely to act when perceived susceptibility is high. The extreme and graphic nature of an hemorrhagic illness like Ebola may induce fear that motivates the behavior. Literature has shown that fear can be a very compelling motivator of health behavior. Although these behaviors may not have been recommended, they could have positive consequences in some cases. For example, changing hygiene practices can include hand washing, which can also reduce transmission of other communicable diseases. Only twenty two  percent  of respondents said that if someone in their community were to contract the illness they would be likely to die. This finding is not in line with known Ebola case fatality rates, but may have been influenced by the high survival rate for healthcare workers treated in the you.S. Despite the frequent news coverage, the findings regarding knowledge make it clear that many Americans still do not have a clear understanding of how to avoid contracting Ebola. The low correlation between confidence in ability to understand Ebola and actual knowledge is not surprising; this is consistent with other literature. These findings suggest public health officials and the media need to ensure that communication about an outbreak also educates the public about basic issues like transmission and prevention, which should be communicated clearly, in non-technical terms, and repeated often. Public health officials can also use formative research to help identify which channels are most likely to reach the target audience in large numbers.
+		/-----------------------Paragraph-----------------------------/
+		Responses to the questions about government policies favored conservative choices. Most respondents were in favor of mandatory quarantine for those who have been exposed and in favor of travel bans, which are not currently recommended. Participants were largely split on whether infected American healthcare workers should be brought to the you.S. for care. Demographic differences varied depending on the policy. For example, the same groups who favored quarantine were not most in favor of travel bans. It is unsurprising that those who are older or who have children in the home were more likely to favor travel bans. Older adults may be more conservative in general. Older adults and children could also be perceived as more susceptible to disease in general. Blacks were less in favor of travel bans from affected regions. Some research has found racial bias in ability to empathize with others pain. Those in the Midwest and West were less in favor of travel bans than those in the Northeast. Those in the Northeast may have felt more vulnerable to infection because most points of entry from West Africa are located there. Patterns for those favoring quarantine are less clear. These differences should be explored in qualitative research. Confidence in media, government, and local healthcare was low. This finding may be related to the fact that two nurses who had cared for a patient with Ebola at a Texas hospital contracted the disease just a few months prior to the survey. Because trust is one of the cornerstones of outbreak communication, and the media is the primary communication outlet for updating the public, public health officials and the media must develop concrete communication strategies to build Americans trust and confidence in order to be credible and prepared for future outbreaks. The Centers for Disease Control and Prevention have developed numerous materials on Crisis and Emergency Risk Communication, which include specific guidelines about communication during times of outbreak, such as acknowledging uncertainty, expressing empathy, and avoiding jargon. These can be valuable resources for building that trust. Other strategies include being aware of the preexisting low levels of trust among the American public, being honest and open, providing enough information to make informed personal decisions, and not using euphemisms because they imply a lack of honesty. SteelFisher, Blendon, and Lasala-Blanco recommend that for future outbreaks, public health officials should establish relationships with independent health professional associations that are trusted by the public and work with them to shape policies and messages with the public. Finally, the media in particular must make sure that news stories provide an accurate portrayal of the risk of an infection or disease and not use gratuitous video footage just to secure high ratings. Some demographic groups did have more confidence in these institutions than others. Some of these differences were not intuitive. It is not obvious why men might have less confidence than women in the media s ability to accurately report on an Ebola outbreak, though this is consistent with previous research showing women tend to rate the media as more credible. Differences in confidence in hospitals were somewhat nuanced. The groups who had more confidence in a local hospital s ability to treat an infected patient did not necessarily have more confidence in the hospital s ability to prevent healthcare workers from catching Ebola and vice versa. Perhaps tailored communications could help to reach the populations with lowest levels of trust. Future research should also explore the implications of intentions to avoid those who have traveled to West Africa or foods and beverages produced there. Previous research has found significant social stigma associated with Ebola. These findings could have serious implications for African people living in or traveling to the United States.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Limitations
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		As is typical for online surveys using nationally representative panels, the response rate for the survey is less than ideal. However, for comparison, other surveys using GfK s KnowledgePanel, such as those conducted by Pew Charitable Trust and the Federal Reserve, have also reported response rates in the single digits. As was mentioned previously, response rates for panel surveys do tend to be lower than for other modes, due to the multiplication of retention, cooperation, profile and completion rates. In addition, weighting helps to alleviate some concerns regarding the sample. The data are self-reported, and there is likely some social desirability bias, which was not measured. Analysis of travel volume data, point of purchase data, and information from other more objective sources can help to she would light on the true impact of the epidemic on specific behaviors.
+		/-----------------------Paragraph-----------------------------/
+		It is important to point out the variation that exists in the content of media information sources. Effects may have been different for audiences of different types of programming or different channels. It is possible some of the effects of age are due to the fact that younger people get more news online while older people watch more television news. Future research should explore these differences further. It is possible it was difficult for people to separate the seriousness of Ebola in West Africa from that in the you.S. when answering questions about whether the media had exaggerated its seriousness. Because these were not asked separately for the two regions, we cannot tease that out in this study.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Conclusions
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Findings from this study can be used to evaluate the effectiveness of the communication efforts by government agencies and the media to educate the public about Ebola and how it can be transmitted and prevented. Future outbreak communication efforts can avoid propagating misinformation and distrust by providing accurate, clear, and factual information through credible sources. Such efforts will help to prevent discrimination and ensure Americans know how to effectively protect themselves in the future.
+	/**************************End Block***************************************/
+
+	/**************************Start Block*************************************/
+	Title: Additional file
+	Sequence: 
+		/-----------------------Paragraph-----------------------------/
+		Abbreviations ABS: Address-based sampling; EV-D68: Enterovirus D68; you.S.: United States.
+	/**************************End Block***************************************/

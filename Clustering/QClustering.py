@@ -58,7 +58,7 @@ class QClustering:
 
         #remove duplicates
         keyclusters = list(dict.fromkeys(keyclusters))
-        #remove words that are mot part of the model
+        #remove words that are not part of the model
         clean_keyclusters = []
         for key in keyclusters:
             if key in doc_dict:

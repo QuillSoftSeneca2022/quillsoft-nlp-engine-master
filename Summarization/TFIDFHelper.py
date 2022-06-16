@@ -28,7 +28,8 @@ class TFIDFHelper:
             l = similarity
             similarity_arr.append(l)
 
-        # Filter out likely sentences in the array, this will create a dictionary using the sentence # as key and similar sentences (array/list) as value
+        # Filter out likely sentences in the array, this will create a dictionary using the sentence 
+        # # as key and similar sentences (array/list) as value
         filter_dict = {}
         for outer_count, ndarr in enumerate(similarity_arr):
             temp_arr = list(ndarr.flatten())

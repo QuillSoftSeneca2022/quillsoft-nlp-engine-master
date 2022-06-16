@@ -2,7 +2,7 @@ import sys
 import math
 import spacy
 import pytextrank
-# import textacy.ke
+import textacy.ke
 from spacy.attrs import ORTH
 from string import punctuation
 from collections import Counter

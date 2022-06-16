@@ -6,7 +6,7 @@
     "coordinates": [ "persName", "figure", "ref", "biblStruct", "formula" ],
     "DumpFolder": "./temp/dump/",
 	"UploadsFolder": "./temp/input/",
-    "PDFKitExecutablePath": "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
+	"PDFKitExecutablePath": "/usr/local/bin/wkhtmltopdf",
 	"SentencesByParagraph": 10,
 	"SpacyUPOStags": [
 		"NOUN",

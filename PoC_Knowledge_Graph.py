@@ -8,6 +8,7 @@ import spacy
 from spacy import displacy
 from DataClasses.Document import Document
 from DataExtraction.DocumentExtraction import DocumentExtraction
+import time
 
 nlp = spacy.load('en_core_web_md')
 
@@ -28,15 +29,17 @@ def draw_graph_kg(file_path, relation):
     candidate_sentences.shape
 
     def get_entities(sent):
-        ent1 = ""
-        ent2 = ""
+        
+        # ent1 = ""
+        # ent2 = ""
 
-        prv_tok_dep = ""    # dependency tag of previous token in the sentence
-        prv_tok_text = ""   # previous token in the sentence
+        # prv_tok_dep = ""    # dependency tag of previous token in the sentence
+        # prv_tok_text = ""   # previous token in the sentence
 
-        prefix = ""
-        modifier = ""
+        # prefix = ""
+        # modifier = ""
 
+        ent1, ent2, prv_tok_dep, prv_tok_text, prefix, modifier = "", "", "", "", "", ""
         #############################################################
     
         for tok in nlp(sent):
@@ -47,36 +50,46 @@ def draw_graph_kg(file_path, relation):
                     prefix = tok.text
                     # if the previous word was also a 'compound' then add the current word to it
                     if prv_tok_dep == "compound":
-                        prefix = prv_tok_text + " "+ tok.text
+                        # prefix = prv_tok_text + " "+ tok.text
+                        prefix = " ".join([prv_tok_text, tok.text])
+
             
                 # check: token is a modifier or not
                 if tok.dep_.endswith("mod") == True:
                     modifier = tok.text
                     # if the previous word was also a 'compound' then add the current word to it
                     if prv_tok_dep == "compound":
-                        modifier = prv_tok_text + " "+ tok.text
+                        #modifier = prv_tok_text + " "+ tok.text
+                        modifier = " ".join([prv_tok_text, tok.text])
             
                 if tok.dep_.find("subj") == True:
-                    ent1 = modifier +" "+ prefix + " "+ tok.text
-                    prefix = ""
-                    modifier = ""
-                    prv_tok_dep = ""
-                    prv_tok_text = ""      
+                    #ent1 = modifier +" "+ prefix + " "+ tok.text
+                    ent1 = " ".join([modifier, prefix, tok.text])
+                    # prefix = ""
+                    # modifier = ""
+                    # prv_tok_dep = ""
+                    # prv_tok_text = ""      
+                    prefix, modifier, prv_tok_dep, prv_tok_text = "","","","" 
 
                 if tok.dep_.find("obj") == True:
-                    ent2 = modifier +" "+ prefix +" "+ tok.text
+                    #ent2 = modifier +" "+ prefix +" "+ tok.text
+                    ent2 = " ".join([modifier, prefix, tok.text])
+
                 
                 # update variables
-                prv_tok_dep = tok.dep_
-                prv_tok_text = tok.text
+                prv_tok_dep, prv_tok_text = tok.dep_, tok.text
+                #prv_tok_text = tok.text
         #############################################################
 
         return [ent1.strip(), ent2.strip()]
 
     entity_pairs = []
-
+    print('printing test-----------------2')
+    start_time = time.time()
     for i in tqdm(candidate_sentences[0]):
         entity_pairs.append(get_entities(i))
+    end_time = time.time()
+    print('processing time : ', end_time - start_time)
 
     def get_relation(sent):
         doc = nlp(sent)
@@ -110,16 +123,29 @@ def draw_graph_kg(file_path, relation):
     clean_source = []
     clean_target = []
     clean_relations = []
+
+  
     for i in range(len(source)):
         if source[i].strip() != '' and target[i].strip() != '':
             clean_source.append(source[i])
             clean_target.append(target[i])
             clean_relations.append(relations[i])
+ 
+
+    # print('printing test-----------------2')
+    # start_time = time.time()
+    # clean_source = [source[i] for i in range(len(source)) if source[i].strip() != '' and target[i].strip() != '']
+    # clean_target = [target[i] for i in range(len(source)) if source[i].strip() != '' and target[i].strip() != '']
+    # clean_relations = [relations[i] for i in range(len(source)) if source[i].strip() != '' and target[i].strip() != '']
+    # end_time = time.time()
+    # print('processing time : ', end_time - start_time)
 
     #print raw relations
     raw_relations = []
     [raw_relations.append(x) for x in clean_relations if x not in raw_relations]
     print("Relations")
+
+   
     for i in range(len(raw_relations)):
         print("{}\t{}".format(raw_relations[i], pd.Series(relations).value_counts()[i]))
 

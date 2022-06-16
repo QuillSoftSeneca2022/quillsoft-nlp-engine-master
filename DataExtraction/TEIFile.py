@@ -27,6 +27,7 @@ class TEIFile(object):
     @property
     def body(self):
         divs = []
+
         body = self.xsoup.find_all('body')[0]
         for div in body.find_all('div'):
             divs.append(div)

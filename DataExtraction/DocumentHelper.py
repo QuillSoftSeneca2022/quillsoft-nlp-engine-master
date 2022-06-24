@@ -45,9 +45,9 @@ class DocumentHelper:
             shutil.move(path, temp_folder)
 
         #COMMENT OUT - GROBID part  
-        #client = grobid.grobid_client(config_path="./config.json")
-        #client.process("processFulltextDocument", temp_folder , output=temp_folder, consolidate_citations=True, teiCoordinates=True, force=True)
-        #print("xml is generated and done",datetime.now())
+        # client = grobid.grobid_client(config_path="./config.json")
+        # client.process("processFulltextDocument", temp_folder , output=temp_folder, consolidate_citations=True, teiCoordinates=True, force=True)
+        # print("xml is generated and done",datetime.now())
         
         # for (dirpath, dirnames, filenames) in os.walk(temp_folder):
         #     for filename in filenames:
@@ -55,7 +55,7 @@ class DocumentHelper:
         #         if filename.endswith('.tei.xml'):
         #             print("path name: ",os.sep.join([dirpath, filename]))
         #             doc = DocumentExtraction.GetDocument(os.sep.join([dirpath, filename]))
-        print("start sending api", datetime.now())
+        # print("start sending api", datetime.now())
 
         # send file to node js server 
         files = {'upload_file': open('./temp/input/input_file.pdf', 'rb')}
@@ -64,12 +64,13 @@ class DocumentHelper:
         response = requests.get("http://localhost:7000/api/tei", headers={'Accept': 'application/xml'}) 
     
         # store it as file from returned data
-        with open('./test_files/test.tei.xml', 'w') as f:
+        with open('./test_files/test.tei.xml', 'w', encoding='utf-8') as f:
             data = response.text
             f.write(data)
         # set doc as new test file 
         doc = DocumentExtraction.GetDocument('./test_files/test.tei.xml')
         print("finish receiving api", datetime.now())
+
         return doc
 
     @staticmethod

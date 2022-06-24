@@ -147,7 +147,7 @@ def get_phrases():
 #returns TEI/XML file
 @app.route('/api/tei', methods=["GET"])
 def get_tei():
-    with open('./test_files/test.tei.xml', 'r') as tei:
+    with open('./test_files/test.tei.xml', 'r', encoding="utf8") as tei:
             print("tei read new")
             return tei.read()
 
@@ -156,7 +156,7 @@ def get_tei():
     for (dirpath, dirnames, filenames) in os.walk(temp_folder):
             for filename in filenames:
                 if filename.endswith('.tei.xml'):
-                    with open(os.sep.join([dirpath, filename]), 'r', encoding="utf8") as tei:
+                    with open(os.sep.join([dirpath, filename]), 'r', encoding="utf8" ) as tei:
                         print("tei read ")
                         #print(tei.read())
                         return tei.read()
@@ -179,4 +179,4 @@ def set_config():
 #endregion
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=4000)

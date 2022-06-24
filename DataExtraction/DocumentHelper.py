@@ -64,7 +64,7 @@ class DocumentHelper:
         response = requests.get("http://localhost:7000/api/tei", headers={'Accept': 'application/xml'}) 
     
         # store it as file from returned data
-        with open('./test_files/test.tei.xml', 'w') as f:
+        with open('./test_files/test.tei.xml', 'w', encoding='utf-8') as f:
             data = response.text
             f.write(data)
         # set doc as new test file 

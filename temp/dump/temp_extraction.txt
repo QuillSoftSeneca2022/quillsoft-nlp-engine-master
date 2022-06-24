@@ -1,560 +1,679 @@
-<image: DeviceRGB, width: 106, height: 125, bpc: 8>
-Australasian Medical Journal AMJ 2010, 3, 9, 614-617 
+ 
 
+ 
+  
+IJBCP International Journal of Basic & Clinical Pharmacology 
  
 
  
 
- 
+Original Research Article 
 
  
 
-RESEARCH 
+Trends of human influenza infection in Chhattisgarh: a retrospective 
 
- 
+observational study 
 
-Please cite this paper as: Knowledge of swine flu among 
-Health Care workers and General Population of Haryana 
-India during 2009 pandemic. Kumar N, Sood S, Singh M, 
-Kumar M, Makkar B, Singh M. AMJ 2010, 3, 9, 614-617. 
-Doi 10.4066/AMJ.2010.314 
+Raj Sharma, Rupendra K. Bharti*, Sanat Sharma, Mahendra K. Jaiswal 
 
  
  
-
  
  
+ 
 
+Department of Pharmacology, 
+Late BRKM Government 
+Medical College, Dimrapal, 
+Jagdalpur, Chhattisgarh, India 
+
+ 
+
+Received: 21 March 2019 
+Revised: 04 April 2019 
+Accepted: 03 May 2019 
+
+ 
+
+*Correspondence to: 
+Dr. Rupendra K. Bharti, 
+Email: rbharti000@gmail.com 
+
+ 
+
+Copyright:   the author, 
+publisher and licensee Medip 
+Academy. This is an openaccess 
+article distributed under 
+the terms of the Creative 
+Commons Attribution NonCommercial 
+License, which 
+permits unrestricted noncommercial 
+use, distribution, 
+and reproduction in any 
+medium, provided the original 
+work is properly cited. 
+
+ 
  
 
 ABSTRACT
  
 
- 
-
-Background 
-A swine flu pandemic hit the world and India was no 
-exception. Many deaths were reported in metropolitan 
-cities. Knowledge about the infection is an important 
-element of control of the infection. 
-Method 
-This cross sectional survey was conducted at a tertiary care 
-centre hospital where the patients are referred from 
-different parts of Haryana accompanied by relatives 
-therefore it was regarded as a potentially high-risk area for 
-the spread of Influenza A   and chosen to assess the 
-knowledge, attitude and practice in relation to swine flu. A 
-self administered questionnaire involved 42 hospital staff 
-members   accompanying 
-the patients from 1st September 2009 to 15th October 2009. 
-Results 
-Out of all respondents only 25% had heard of swine flu 
-before and out of which 65% HS & 37% GP knew more than 
-three correct symptoms. There were 86% respondents 
-
-  who thought that touching the eyes, 
-nose or mouth without washing hands can spread the 
-disease. Altogether 80% respondents thought that the 
-disease was controllable while, nearly 92% of respondents 
-knew about the nearest swine flu control or testing centre. 
-Among all hardly 10% had attended some type of  
-awareness program for swine flu control and 62% were 
-taking precautions against the spread of swine flu. Nearly 
-70% of respondents thought that masks prevent the disease 
-while about 98% washed their hands before having meal. 
-Nearly 72% of this knowledge was from television and 20% 
-from newspapers. 
-Conclusion 
-In the present study group many of the respondents didn t 
-know about swine flu. Most were from the general 
-population. We recommend a public health campaign in 
-Haryana. 
+Background: Human influenza virus was recognized as a pandemic in 2009 by 
+the World Health Organization. Since then many newer incidences was 
+recognized in India, but there was no sufficient data from all state of India. This 
+study will provide data from the Chhattisgarh state of India. 
+Methods: It was a retrospective observational study from December 2015 to 
+November 2017. All patient samples with suspected influenza infection were 
+collected and analysed by Real-time reverse polymerase chain reaction (RTPCR
+). 
+Results: 341 patients' sample was collected and analysed; among these samples, 
+07.9% of patients have all three serotype of influenza positive. Raipur district has 
+the highest incidence of influenza A followed by Durg and Raigarh district of 
+Chhattisgarh. There was no significant difference between male and female who 
+was affected by the influenza virus. 
+Conclusions: The incidence of Human influenza virus is lesser in Chhattisgarh 
+as compare to the average states of India and the state capital has a higher rate of 
+sample collection as well as positive influenza infection. 
 
  
 
-Key Words 
-Swine flu, knowledge, attitude, practices, medical staff 
+Keywords: Chhattisgarh, Influenza, Incidence, Oseltamivir, Pandemic 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+INTRODUCTION
+ 
+
+Human influenza virus is a pig transmitted infectious 
+disease and it is appeared to be highest mortality causing 
+disease since past decade. In 2009, it was recognized as 
+pandemic infectious disease by World health Organization, which was transmitted via human to human by 
+aerosol. Influenza was first time recognized as Spanish flu 
+in 1918-1919, which was also pandemic in nature. Illness 
+oftenly present in farmers who had swine in their farms 
+and that was observed by veterinarian J. S. Koen. The 
+isolation of pig derived H1N1 virus was first time obtained 
+during 1930 by Shope and Lewis then in 1974 human 
+
+derived H1N1 virus was isolated, which confirm the 
+hypothesis that pig derived H1N1 virus could infect human 
+too. 
 
  
 
- 
-
-Background 
-Swine   Flu  pandemic  detected  in  April  2009   contained   
-a combination of genes from swine, avian, and human 
-influenza viruses.1,2 The outbreak began in Mexico, with 
-evidence that there had been an ongoing epidemic for 
-months before it was officially recognized as such. The 
-virus continued to spread globally, and the World Health 
-Organization   in June declared the outbreak to be a 
-pandemic4 and raised a strong signal that a pandemic is 
-imminent and that the time to finalize the organization, 
-communication and implementation of the planned 
-mitigation measures is short. As of 6 August 2009, the 
-World Health Organization reported 1,77,457 laboratory 
-confirmed cases of influenza A/H1N1 and 1,462 deaths. 
-India was no exception and many deaths (138 as of 9 
-September 2009) were reported in metropolitan cities such 
-as Mumbai, Pune and Bangalore. Given the seriousness of 
-the situation and lack of any specific vaccine against 
-Influenza A, mitigation measures in the India have so 
+Human influenza or H1N1 influenza or Swine flu is a 
+respiratory tract disorder comprised of flu like symptoms 
+which include sore throat, rhinorrhoea, fever, chills, 
+vomiting, restlessness, anorexia, headache, arthralgia and 
+diarrhea. In patients with immune deficit, the clinical 
+presentation of swine flu could be worsen and may lead to 
+altered sensorium and respiratory collapse. Till date five 
+serotype of H1N1 influenza was isolated which are H1N1, 
+H1N2, H2N3, H3N1, and H3N2. Among these only H1N1 
+causes human infection and rest are seen only in pigs. 
 
  
  
 
-Knowledge of Swine Flu among Health Care Workers and General Population of 
-
-Haryana, India during 2009 Pandemic 
-
-Naresh Kumar 1 Sushma Sood1 Manjeet Singh1 Mukesh Kumar2 Beena Makkar1 Manusha 
-
-Singh3 
-
-1. Department of Physiology, Pt B.D. Sharma PGIMS, Rohtak, Haryana. 
-
-2. Department of Pharmacy Practice, Kasturba Medical College Manipal University, 
-
-Mangalore, Karnataka. 
-
-3. Medical Student, Pt B.D. Sharma PGIMS, Rohtak, Haryana. 
-
-<image: DeviceRGB, width: 106, height: 125, bpc: 8>
-Australasian Medical Journal AMJ 2010, 3, 9, 614-617 
-
+Sharma R and others Int J Basic Clin Pharmacol. 2019 Jun;8 :1288-1291 
  
-
-far focused on identifying, treating, and isolating people 
-who have the disease and educating the public about the 
-steps that individuals can take to reduce the risk of 
-transmission. These recommendations include using tissues 
-when sneezing, washing hands regularly with soap and 
-water. The media, including both televised and written 
-media, and to a lesser extent the radio and the internet, 
-where free uncensored writing and YOU-tube postings take 
-place had led to inappropriate behaviour by the public such 
-as; refusal to comply with precautionary measures, 
-including wearing a mask or accepting a vaccination; 
-avoidance of certain activities including visiting the hospital 
-due to fear of healthcare facilities as a venue for acquiring 
-the infection.8-10 There was a large need for the 
-dissemination of accurate information to overcome the 
-misinformed dialogue taking place on TV, newspapers and 
-internet. 11 During a pandemic, public health agencies can 
-play critical roles in controlling the spread of disease. 
-Therefore the present study was designed to assess the 
-knowledge, attitude and practice during swine flu epidemic 
-among the medical staff and the general population. 
-
- 
-
-Method 
-This cross sectional survey was conducted at a tertiary care 
-centre hospital where the patients are referred from 
-different parts of Haryana accompanied by relatives 
-therefore it was regarded as a potentially high-risk area for 
-the spread of Influenza A   and chosen to assess the 
-knowledge, attitude and practice in relation to swine flu. A 
-self administered questionnaire involved 42 hospital staff 
-members   accompanying 
-the patients from 1st September 2009 to 15th October 2009. 
-
- 
-
-Results 
-A total of 400 subjects (Hospital staff= 42 & general 
-population= 358) with mean   SD age group of 31.42   
-10.65 years   participated in the study. 
-There were 214 males and 186 females. 
-
- 
-
-Knowledge response 
-Out of all respondents only 25%   had heard of swine 
-flu before. Out of these 25%   
-hospital staff   
-knew about symptoms of swine flu. Sixty five percent of HS 
-and thirty seven percent of GP knew more than three 
-correct symptoms. 65% of HS and 74% of GP thought that 
-this was a disease of children and elderly patients, while 
-35% of HS and 22% of GP thought that adults with co 
-morbidities like asthma and diabetes were at a greater risk 
-and only 2% of GP didn t know about it. There were 95% HS 
-and 86% general people who thought that touching of eyes, 
-nose or mouth without washing hands can spread the 
-disease while only 5% HS and 10% GP thought that it was 
-partially true and 6.66 % of GP didn t know the answer. 
-Altogether, 80% of HS and GP thought that the disease was 
-controllable while, 15% of HS and 10% of GP thought that it 
-was not and 10% of GP didn t know the answer. Nearly 95% 
-of HS and 92% of GP knew about the nearest swine flu 
-control or testing centre and half of HS were aware of the 
-
-second wave of swine flu epidemic but 72% of GP were not 
-aware of it. 
-
- 
-
-Attitude response 
-Only 10% of HS and GP had attended some type of 
-awareness program for swine flu control. Nearly 65% 
-  did not avoid public gatherings like 
-parties and group meetings of the fear of swine flu while 
-rest 35% avoid such meetings. Nearly 70% of respondents 
-  definitely thought that mask 
-prevents the disease and 20%   
-thought that it was partially true and only 10% (HS=5% & 
-GP=13.33%) didn t know the answer. 
-
- 
-
-Practice response 
-About 98% respondents   wash 
-their hands before having meals. 62% (HS=55% & 
-GP=66.67%) were definitely taking precautions against the 
-spread of swine flu while 14%   were 
-taking 
-partial 
-precautions, 
-while 
-24% 
-(HS=25% 
-& 
-
-GP=23.33%) were not taking any precautions. Disposal of 
-mask was done by throwing them into the dustbin by 34% 
-  while, disposal by burning  was 
-done by 20%. However, 46% 
-  did not know how to dispose masks. Of 
-the respondents 46%   thought that 
-it was not safe to reuse the mask more than once and 3.33% 
-general population thought that this was partially true while 
-40% respondents   did not knew the 
-answer and 12%   answered that 
-mask can be reused. There were 94%   
-of respondents who thought that if they had developed the 
-symptoms of swine flu then they would have contacted the 
-swine flu centre immediately for diagnosis while only 10% 
-hospital staff thought that they would have taken the 
-proper precautions to prevent the spread of disease and 5% 
-of HS thought that they would have done both. Nearly 94% 
-respondents   used tissue or 
-handkerchief while sneezing or coughing and when the 
-respondents had to visit some swine flu infected area then 
-40%   wash their hands with soap 
-and water more frequently and thoroughly while 40% 
-  respondents avoid contact with the 
-people who appeared sick and 30%   
-followed the both precautions. 
-
-Discussion 
-In spite of the increase in the number of Influenza A   
-cases as well as the response of the WHO by raising its 
-pandemic alert status to phase 6 and extensive media 
-coverage, public responses to Influenza A   were 
-muted. In practice, convincing the public that the threat is 
-real is often a more pressing task for public health agencies 
-than providing reassurance. 7 Many reports have examined 
-the various levels of knowledge about infectious agents and 
-public behavior in relation to these infections; such studies 
-have primarily focused on the SARS and avian influenza 
-outbreaks.8, 13 Other studies have been recently published 
-specifically on behavioral and attitudinal responses to 
-pandemic   2009 Influenza.10, 14-16 
 
  
  
 
-<image: DeviceRGB, width: 106, height: 125, bpc: 8>
-Australasian Medical Journal AMJ 2010, 3, 9, 614-617 
+Swine flu is an orthomyxo RNA virus, having two surface 
+antigens   and N1 (Neuraminidase 
+type 1).1 
+
+ 
+
+In India, 27,236 laboratory confirmed cases with 981 
+deaths were reported during 2009.4,5 The post pandemic 
+period   62,000 laboratory confirmed swine flu 
+with 5000 deaths was reported by the Ministry of Health 
+and Family Welfare and also stated that the incidence was 
+high during monsoon   and low during 
+winter  .4-8 The incidences of H1N1 
+influenza were keep rising worldwide. In India there was 
+lack in sufficient data of human influenza virus infection 
+from the many states. This study will provide the newly 
+laboratory diagnosed cases of human influenza virus 
+infection in the state of Chhattisgarh. 
+
+ 
+
+METHODS 
+
+ 
+
+It was hospital-based retrospective descriptive, recordbased 
+analysis from December 2015 to November 2017. 
+This study was carried out in the Department of 
+Pharmacology, 
+Late 
+BRKM 
+Government 
+Medical 
+
+College, Dimrapal, Jagdalpur, Chhattisgarh. Patients with 
+the sign and symptoms of influenza viral infection who are 
+falling under category B and C and Confirm case (tested 
+positive for influenza infection) by real-time reverse 
+transcription polymerase chain reaction   were 
+included in this study. 
+
+ 
+
+Patients from category B and C were administered proper 
+therapy for influenza viral infection and samples were sent 
+for confirmation, if the sample was negative, treatment 
+was 
+discontinued. 
+The 
+data 
+related 
+to 
+patients' 
+
+demographics from the H1N1 visiting screening centers, 
+swine flu outpatient departments and swine flu isolation 
+wards and hospitals from Chhattisgarh were collected. 
+Testing of influenza virus was carried out at microbiology 
+department of Late BRKM Government Medical College, 
+Dimrapal, Jagdalpur. 
+
+ 
+
+Collection of samples and confirmation 
+
+ 
+
+Throat or nasal swab samples of suspected cases with 
+influenza-like sign and symptoms were collected in Viral 
+Transport Medium and sent to laboratories maintaining 
+cold-chain. RNA was extracted by Purelink Viral 
+RNA/DNA blood Mini Kit. RNA of 
+each isolate was tested by separate primer/probe sets for 
+InfA, H1N1 and H1 subtype as per the CDC real-time RTPCR 
+protocol (ABI Step One Plus RT-PCR instrumentApplied 
+Biosystems, USA).10 All the data related to 
+demographic characteristics, was analysed using Epi Info 
+v7.2 and Yates corrected chi-square   test. P-value 
+<0.05 was considered statistically significant. 
+
+ 
+
+RESULTS 
+
+ 
+
+Total 341 samples were collected from different hospitals 
+and medical colleges in the state with suspected H1N1 
+
+infection. Out of total 341 sample, 54% patients were male 
+and the mean age was 30.39 19.2, years-wise 
+comparison depicted in Table 1. Trends of suspected cases 
+of influenza infection between both the gender, higher 
+percentage among female 31 to 40 were observed between 
+21 to 30 year of age and in males at 0-10 years were the 
+highest. Between Dec 2015 to Nov 2017, only 
+7.9% patients were found to be positive of all three 
+subtypes of human influenza stain like H1N1, Influenza-A 
+and H1-subtype, while 46.3%   patients was found 
+positive for influenza-A, 17.3%   for H1N1, 24.9% 
+  for H1 subtype infection by RT PCR and all three 
+was positive in 7.9%. Populated region of 
+Chhattisgarh has higher rate of suspected cases such as 
+Raipur, and Durg, even the most 
+Trible region of Chhattisgarh   has comparable 
+higher rate than other district. Maximum number of 
+sample was send from the Raipur district followed by Durg 
+and Raigarh. 
+
+ 
+
+Table 1: Age wise distribution of Human Influenza 
+
+patients. 
+
+ 
+
+Age in decades   
+Male 
+Female 
+P Value 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ : Incidence of newer diagnosed human 
+
+influenza subtypes from December 2015November 2017. 
+
+ 
+
+The 41.8%   sample was positive for Influenza A, 
+39%   for H1 subtype 
+infection in district Raipur, whereas in district Durg and 
+Raigarh has 8.9%, 11.9%, 10.6% and 2.5%, 13.6%, 11.8% 
+sample was positive for Influenza A, H1N1 and H1 
+subtype, respectively. 
+
+ 
+ 
+
+<image: DeviceRGB, width 482, height 372, bpc 8>
+H1 subtupe 
+H1 N1 
+Influenza A 
+
+Incidence of Human Influenza 
+
+Sharma R and others Int J Basic Clin Pharmacol. 2019 Jun;8 :1288-1291 
+ 
+
+H1 subtupe 
+
+ 
+ 
+
+ 
 
  
 
  
 
-In our study nearly 75% of the respondents had never heard 
-of the swine flu before out of which 99.33% were of general 
-population and only 0.67% were of medical staff. Out of 
-which 52% knew more than three symptoms. In another 
-study by Kamate et al 83% of subjects had heard about 
-swine flu. In another study 44% of national sample of adult 
-Australians reported having knowledge of the term 
-pandemic influenza,18 a finding similar to that of a study 
-conducted in the USA in 2006 in which 41% of respondents 
-had previously heard of this term. So here we conclude 
-that our respondents have far less knowledge about swine 
-flu than the above studies and the reason may be lack of 
-public health communications. 
+ : Distribution of percentage of sample sends 
+
+by the district of Chhattisgarh. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ : Distribution of Sero-positive influenza 
+
+subtype in most occurring districts of Chhattisgarh. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ : Comparison of positive influenza serotype in 
+
+between gender. 
 
  
 
-In our study nearly 72 % of respondents learned about 
-swine flu from television while about 20% came to know 
-about the disease in newspapers and only 8% through word 
-of mouth. Similarly in an another study the majority   
-of the participants received their information about swine 
-flu from the television; 51.1% received information from 
-written media such as newspapers and magazines, while 
-48.2% received information from the internet. 
+Raipur has significant number of positive cases of 
+influenza A, H1N1 and H1 subtype than other district of 
+Chhattisgarh state. There was slightly higher 
+incidence of Influenza A, H1N1, and H1 subtype observed 
+in male patients than female. The mean percentage of 
+Influenza- The positive test for influenza A, H1N1, and H1 
+
+subtype was high in males than female patients. A was 
+positive in male patient was 51.3% as compare to female 
+patient was 48.7%, while 52.5% male patients 
+were positive for H1N1 as compare to 47.5% female 
+patients and H1 subtype was positive in 50.6% male 
+patient vs. 49.4% in female patients. 
 
  
 
-In a recent review of behavioural responses to influenza 
-pandemics in the 20th century,20 the only two measures 
-that had strong support by scientific literature to lessen the 
-spread of the diseases were hand hygiene and respiratory 
-etiquette. School closure and screening of travellers had 
-
-reduced the use of public transportation; 74.3% had not 
-taken any time off work; However, more than half the 
-respondents   avoided crowded places and 
-54.6% washed their hands with soap and water more often 
-than usual, and 63.6% were not overtly worried about 
-cleaning or disinfecting things that they might touch. 
+DISCUSSION 
 
  
 
-Nearly 70% of the respondents believed that using masks 
-definitely prevents swine flu while 20% were not sure 
-whether masks could prevent from the disease and 10% 
-didn t knew the answer. Nearly 34% disposed the used  
-mask by throwing it into dustbin, 20% disposed them by 
-burning and 46% did not know how to dispose the masks. In 
-another study the willingness to wear a mask during a 
-pandemic was surprisingly high, particularly as this is 
-not common practice in Australia. Use of masks by the 
-general public in China, Hong Kong, Special Administrative 
-Region, during the 2003 severe acute respiratory syndrome 
-  outbreak was below this level. 
+The incidence of human influenza viral infection in 
+Chhattisgarh is comparable from other state of India. The 
+collections of sample were higher during rainy season as 
+reported in national health profile of India. From 
+December 2015 to November 2017, a total number of 341 
+samples were sent to our center, out of which, highest 
+number of sample   was received from Raipur district 
+followed by Durg   district, which was comparable with the incidence of 
+human influenza infection in the district of Rajasthan. 
+
+Among these samples 07.9% was seropositive for all three 
+subtypes of influenza virus such as Influenza-A, H1N1, 
+and H1 Subtype. 
 
  
 
-Eighty percent of our respondents definitely thought that 
-the disease was controllable while 10% thought that this 
-was partially true while in an another study two percent of 
-the respondents were of the opinion that Influenza A 
-  would not affect their health; 36.4% feared  that 
-they would be somewhat affected; 34.5% believed that they 
-would be seriously affected; and 27.1% had no idea about 
-the effect of Influenza A   on their health. 
-
-legal and ethical  consequences when  implemented.  While 
-  
- 
-
-the other four measures, including isolation and wearing of 
-a surgical mask or an N95 mask, had cost effectiveness 
-concerns and would be difficult to implement over long 
-periods of time.21, 22 Maximum of the respondents   
-thought that swine flu can be spread by poor hygiene like 
-touching eyes, nose or mouth without washing their hands 
-and actually 98% of respondents washed their hands before 
-meals while nearly 94% use tissue or handkerchief while 
-coughing or sneezing. In another study nearly, one-third 
-reported avoiding touching their eyes, nose, or mouth 
-  and covering their nose and mouth with a tissue 
-when coughing or sneezing. However, only onefourth 
-of participants reported throwing the tissue in the 
-trash after use   and avoiding normal activities if they 
-have flulike symptoms  .17 
+The incidence of Influenza-A was 46.3%, H1N1, 
+and H1 subtype was 24.9%   from Dec-2015-2017. Among higher reporting districts of 
+Chhattisgarh, the overall newer case of from Raipur was 
+41.8%   and Baster 
+  for Influenza-A subtype. Similarly, H1N1 is also 
+most common seen in Raipur   followed by Raigarh 
+  and, H1 Subtype incidences 
+were also high in Raipur   
+followed by Durg. These results 
+signify the higher rate of incidence commonly seen in the 
+state capital as also observed by Malhotra et al. The mean 
+age of male patients those samples was obtained was 
+30.39 19.2 years as compare to female patients was 
+30.77 18.8. In female, common age group 
+presenting Influenza like symptoms was 21-30 years, while the common age group in male patients was 
+31-40 years, age-wise distribution is shown in the 
+table-1, and similar distribution was also observed by 
+choudhary et al. 
 
  
 
-It is important to know what proportion of the population is 
-concerned about contracting a disease since those who are 
-concerned would be expected to take more precautions. In 
-a telephone-assisted survey of 2,081 adults above the age  
-of 16 years, the New South Wales Department of Health 
-found that only 48.3% of those interviewed were willing to 
-comply with precautionary measures.23,24 In our study 
-nearly 66% responded that they did not avoid public 
-gatherings like parties or group meetings but 40% of the 
-respondents washed their hand with soap and water 
-thoroughly and more frequently when they visit swine flu 
-infected areas while, 40% avoided close contact with the 
-people who appeared unwell. In another study 59.5% had 
-not cancelled or postponed any social event; 67.6% had not 
+The management of Human Influenza virus is requires 
+isolation of infected person with antiviral therapy and 
+curative management of other complications. Antiviral 
+therapy 
+mainly 
+includes 
+Oseltamivir, 
+Zanamivir, 
 
-References 
+Peramivir, 
+Laninamivir 
+which 
+are 
+neuraminidase 
+
+inhibitors   and Adamantanes such as Amantadine 
+and Rimantadine.13,14 Nowadays only NAIs is effective 
+against swine flu due development of resistance against 
+adamantanes.13,14 In India, Oseltamivir and Zanamivir is 
+used for the treatment as well as for the prophylaxis of 
+human influenza. According to WHO, Uncomplicated 
+cases does not require antiviral therapy, only patients with 
+suspected symptoms in high risk group were advocated for 
+antiviral therapy. All patients including pregnant females 
+were included by WHO for antiviral therapy. 
+
+ 
+ 
+
+Durg 
+9% 
+Mahasamund 
+5% 
+
+Raipur 
+
+37% 
+Rajnandgaon 
+3% 
+
+Dhamtari 
+
+Bilashpur 
+
+Gariyaban 
+
+Baster 
+
+7% 
+Raigarh 
+
+BalodaBazar 
+
+
+Rest of the 
+
+Bemetara 
+
+<image: DeviceRGB, width 388, height 244, bpc 8>
+<image: DeviceRGB, width 275, height 93, bpc 8>
+H1 subtype 
+
+Influenza A 
+80 
+
+<image: DeviceRGB, width 429, height 339, bpc 8>
+H1 Subtype 
+Influenza A 
+H1 N1 
+
+Number of Sample tested 
+
+Positive 
+
+Percentage of incidence 
+
+Sharma R and others Int J Basic Clin Pharmacol. 2019 Jun;8 :1288-1291 
+ 
+
+ 
+ 
+
+In adults, oseltamivir is prescribed 75 mg twice daily 
+regimen for 5 days, while Zanamivir is given in a dose of 
+10 mg twice daily, both drugs can be used as prophylaxis 
+of swine flu in an once daily regimen. Chemoprophylaxis 
+should be given to the healthcare professionals, 
+Oseltamivir is given once daily for 10 days and may be 
+extended upto 6 weeks depending upon duration of close 
+contact to the patients. WHO also recommended the 
+vaccine for the healthcare professionals, the response of 
+the vaccine will come after 2-3 weeks after vaccination. 
+There were some limitation in our study; the power of 
+study was low due to less sample size; the mortality was 
+not calculated and we unable to find the commonest sign 
+and symptoms of human influenza virus in Chhattisgarh 
+region of India. 
 
  
 
-Disease Control and Prevention 2009-09-24. 
+CONCLUSION 
 
-2. Huffstutter PJ. "Do not call it 'swine flu,' farmers 
+ 
 
-implore". Los Angeles Times. 2009-12-05. 
+The case of Human influenza virus in Chhattisgarh from 
+the period of December 2015 to November 2017 was only 
+341 which was less than many states of Chhattisgarh. 
+Higher incidences were observed in the state capital then 
+neighbouring district like Durg and Raigarh. There was no 
+significant difference in between gender affected by 
+human influenza, while Influenza A was more common 
+than H1N1 and H1 subtype among the all received 
+samples. The treatment remains the same for swine flu, 
+which includes neuraminidase inhibitors   and 
+Adamantanes. 
 
-3. McNeil, J, Donald G. "In New Theory, Swine Flu 
+ 
 
-Started in Asia, Not Mexico". The New York Times 
-2009-06-23. 
+ACKNOWLEDGEMENTS 
 
-4. Chan, Margaret. "World now at the start of 2009 
+ 
 
-influenza pandemic". World Health Organization 
-2009-06-11. 
+Authors would like to thank Department of Microbiology, 
+Late BRKM GMC Jagdalpur, Chhattisgarh. 
 
-5. World Health Organization. Current WHO phase of 
+ 
 
-pandemic 
-alert 
-2009. 
+Funding: No funding sources 
+Conflict of interest: None declared 
+Ethical approval: The study was approved by the 
+Institutional Ethics Committee 
 
-www.who.int/csr/disease/avian_influenza/phase/e 
-n/index.html 
+ 
 
-6. Ministry of Health and Family Welfare, India. 
+REFERENCES 
 
-Available 
-on 
+ 
 
-http://mohfw.nic.in/press_releases_on_swine_flu. 
-htm 
+1. Rawal G, Yadav S, Kumar R, Sujana R. Swine Flu 
 
-7. Blendon RJ, Koonin LM, Benson JM. Public 
+ : A concise review. Indian J 
+Immunol Resp Med. April-June;2 :29-32. 
 
-response to community mitigation measures for 
-pandemic influenza. Emerg Infect Dis 2008;14:77886
-. 
+2. Myers KP, Olsen CW, Gray GC. Cases of Swine 
 
-8. Tang CS, Wong CY. An outbreak of the severe acute 
+Influenza in Humans: A Review of the Literature. Clin 
+Infect Dis. 2007 Apr 15;44 :1084-8. 
 
-respiratory 
-syndrome: 
-predictors 
+3. Yadav S, Rawal G. Swine flu-have we learnt any 
+
+lesson from the past? Pan Afr Med J. 2015 Oct 
+12;22:118. 
+
+4. Central Bureau of Health Intelligence. National Health 
+
+Profile 
 of 
-health 
+India. 
+2009. 
+Available 
+at: 
 
-behaviors and effect of community prevention 
-measures in Hong Kong, China. Am J Public Health 
-2003;93:1887-8. 
+http://cbhidghs.nic.in/writereaddata/linkimages/8%20 
+Health%20Status%20Indicators4950277739.pdf. 
 
- 
- 
+5. Press Information Bureau, Government of India, 
 
-<image: DeviceRGB, width: 106, height: 125, bpc: 8>
-Australasian Medical Journal AMJ 2010, 3, 9, 614-617 
-
- 
-
-9. Tang CS, Wong CY. Factors influencing the wearing 
-
-of facemasks to prevent the severe acute 
-respiratory syndrome among adult Chinese in Hong 
-Kong. Prev Med 2004;39:1187-93. 
-
-perceptions, anxiety, and behaviour change in 
-relation to the swine flu outbreak: cross sectional 
-telephone survey. BMJ 2009;339:2651. 
-
-11. Hanan HB, Mostafa AA, Rawabi HA, Mohammad 
-
-AA. Awareness, attitudes, and practices related to 
-the swine influenza pandemic among the Saudi 
-public 
-http://www.biomedcentral.com/14712334/10/42 
-
-12. Butler-Jones D. Canada s public health system: 
-
-building support for front-line physicians. CMAJ 
-2007;176:36 7. 
-
-13. Zwart OD, Veldhuijzen IK, Elam G, Aro AR, Abraham 
-
-T, Bishop GD and others Avian influenza risk perception, 
-Europe and Asia. Emerg Infect Dis 2007;13:290-3. 
-
-14. Eastwood K, Durrheim DN, Jones A, Butler M. 
-
-Acceptance of pandemic   2009 influenza 
-vaccination 
-by 
-the 
-Australian 
-public. 
-MJA 
-
-2010;192:33-6. 
-
-15. Seale H, McLaws ML, Heywood AE, Ward KF, 
-
-Lowbridge CP, Van D and others The community s 
-attitude towards swine flu and pandemic influenza. 
-Med J Aust 2009;191:267-9. 
-
-16. Goodwin R, Haque S, Neto F, Myers LB. Initial 
-
-psychological responses to Influenza A, H1N1. BMC Infectious Diseases 2009;9:166. 
-
-17. Kamate SK, Agrawal A, Chaudhary H, Singh K, 
-
-Mishra P, Asawa K. Public knowledge, attitude and 
-behavioural changes in an Indian population 
-during the Influenza A   outbreak. J Infect 
-Dev Ctries 2010; 4:7-14. 
-
-18. Eastwood K, Durrheim D, Francis JL, d Espaignet ET, 
-
-Duncan S, Islam F and others Knowledge about 
-pandemic 
-influenza 
-and 
-compliance 
-with 
-
-containment measures among Australians. Bull 
-World Health Organ 2009;87:588 94. 
-
-19. Balkhy HH, Abolfotouh MA, Al-Hathlool RA, AlJumah MA. Awareness, attitudes, and practices 
-related to the swine influenza pandemic among 
-the 
-Saudi 
-public. 
-
-http://www.biomedcentral.com/1471-2334/10/42 
-
-20. Ahmed SI, Hassali MA, Aziz NA. An Assessment of 
-
-the Knowledge, Attitudes, and Risk Perceptions of 
-Pharmacy Students Regarding HIV/AIDS. Am J 
-Pharm Educ 2009;73: 15. 
-
-21. Sandman PM. Pandemics: good hygiene is not 
-
-22. Lau JTF, Yang X, Tsui H, Kim JH. Monitoring 
-
-community responses to the SARS epidemic in 
-Hong Kong: from day 10 to day 62. J Epidemiol 
-Community Health 2003;57: 864 70. 
-
-23. Barr M, Raphael B, Taylor M, Stevens G, Jorm L, 
-
-Giffin M and others Pandemic influenza in Australia: 
-using telephone surveys to measure perceptions of 
-threat and willingness to comply. BMC Infect Dis 
-2008, 8:117. 
-
-24. NSW Department of Health. H1N1 influenza 09 
-
-(human 
+Ministry of Health and Family. Preventive measures 
+on 
 swine 
-influenza) 
-factsheet. 
+flu. 
+Available 
+at: 
 
-http://www.healthinsite.gov.au/content/external/ 
-page.cfm 
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=115 
+710. 
+
+6. Central Bureau of Health Intelligence. National Health 
+
+Profile 
+of 
+India. 
+2010. 
+Available 
+at: 
+
+http://cbhidghs.nic.in/writereaddata/mainlinkFile/File 
+1012.pdf. 
+
+7. Choudhry A1, Singh S, Khare S, Rai A, Rawat DS, 
+
+Aggarwal RK, and others Emergence of pandemic 2009 
+influenza A H1N1, India. Indian J Med Res. 
+2012;135 :534-7. 
+
+8. Broor S, Krishnan A, Roy DS, Dhakad S, Kaushik S, 
+
+Mir MA, and others Dynamic patterns of circulating 
+seasonal and pandemic A pdm09 influenza 
+viruses from 2007-2010 in and around Delhi, India. 
+PLoS One. 2012;7 :e29129. 
+
+9. Guidelines on Categorization of Influenza a H1N1 
+
+Cases during Screening for Home Isolation, Testing 
+Treatment, 
+and 
+Hospitalization. 
+Available 
+at: 
+
+http://www.mohfw.nic.in/WriteReadData/l892s/8044 
+56402Categorisation.pdf. 
+
+10. CDC Protocol of Real Time RTPCR for Influenza A 
+
+. 
+Available 
+at: 
+
+http://www.who.int/csr/resources/publications/swinef 
+lu/CDCRealtimeRTPCR_SwineH1Assay2009_20090 
+430.pdf 
+
+11. Malhotra B, Singh R, Sharma P and others Epidemiological 
+
+& clinical profile of influenza A   2009 virus 
+infections during 2015 epidemic in Rajasthan. Indian 
+J Med Res 2016;144 :918-23. 
+
+12. Choudhary SR, Momin MH, Chauhan NT. Profile of 
+
+influenza a   positive patients of surat district. 
+Int J Contemporary Med Res. 2017;4 :504-506. 
+
+13. Singh V, Sood M. Swine Flu - A comprehensive view. 
+
+14. Mukherjee S, Sen S, Nakate PC, Moitra S. 
+
+Management of swine flu   outbreak and its 
+treatment guidelines. Community Acquir Infect. 
+2015;2 :71-8. 
 
  
 
-CONFLICTS OF INTEREST 
-The authors declare no conflict of interest. 
-
  
 
-PEER REVIEW 
-Not commissioned. Externally peer reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
 
  
 
 View publication stats 
+
+Cite this article as: Sharma R, Bharti RK, Sharma 
+S, Jaiswal MK. Trends of human influenza infection 
+in Chhattisgarh: a retrospective observational study. 
+Int J Basic Clin Pharmacol 2019;8:1288-91. 
 
